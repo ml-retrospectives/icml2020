@@ -45,7 +45,9 @@ We are accompanying the workshop with the open-source release of a retrospective
 
 We accept submissions through our [OpenReview workshop site](https://openreview.net/group?id=ICML.cc/2020/Workshop/ML_Retrospectives). Submissions can be from any subfield of machine learning or related fields of interest to the ICML community.  The main goal of the workshop is to widen what is publishable in ML, and to introduce researchers to more public reflections of their work as part of an ongoing effort to disseminate scientific knowledge more effectively and openly.
 
-**Submission Deadline: May 17, 2020 23:59 AOE**
+**Main deadline: May 17 23:59 Anywhere on Earth. Accept/reject notification will be sent out June 1st.**
+
+**Late-breaking deadline: June 21 23:59 Anywhere on Earth. Accept/reject notification will be sent out July 1st.**
 
 Our [CFP](https://ml-retrospectives.github.io/icml2020/) provides additional details on how to write and submit a retrospective.
 
