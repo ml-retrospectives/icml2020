@@ -25,11 +25,11 @@ We are accompanying the workshop with the open-source release of a retrospective
 
 <table style="width:75%">
   <tr>
-    <td style="text-align:center"><img src="http://tensorlab.cms.caltech.edu/users/anima/images/DP.png" height="200"></td>
-    <td style="text-align:center"><img src="https://www.is.mpg.de/uploads/employee/image/145/L1170153_-_copy.jpg" height="200"></td>
-    <td style="text-align:center"><img src="https://images.ctfassets.net/8wprhhvnpfc0/6hLLZq4X1hVzRGwwrIQOvc/9791f266fcb65b02c3aec680de7dd023/Deborah_Raji_headshot.jpg" height="200"></td>
-    <td style="text-align:center"><img src="https://www.cs.toronto.edu/~cmaddis/pic/HEADSHOT_IAS4x5.jpg" height="200"></td>
-    <td style="text-align:center"><img src="https://www.privacyconference2018.org/sites/default/files/styles/speaker/public/2018-10/Fung.JPG" height="200"></td>
+    <td style="text-align:center"><img src="http://tensorlab.cms.caltech.edu/users/anima/images/DP.png" height="175"></td>
+    <td style="text-align:center"><img src="https://www.is.mpg.de/uploads/employee/image/145/L1170153_-_copy.jpg" height="175"></td>
+    <td style="text-align:center"><img src="https://images.ctfassets.net/8wprhhvnpfc0/6hLLZq4X1hVzRGwwrIQOvc/9791f266fcb65b02c3aec680de7dd023/Deborah_Raji_headshot.jpg" height="175"></td>
+    <td style="text-align:center"><img src="https://www.cs.toronto.edu/~cmaddis/pic/HEADSHOT_IAS4x5.jpg" height="175"></td>
+    <td style="text-align:center"><img src="https://www.privacyconference2018.org/sites/default/files/styles/speaker/public/2018-10/Fung.JPG" height="175"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="http://tensorlab.cms.caltech.edu/users/anima/">Anima Anandkumar</a> <br> Caltech, NVIDIA</td>
@@ -55,5 +55,6 @@ Our [CFP](https://ml-retrospectives.github.io/icml2020/) provides additional det
 * [Jessica Forde](https://github.com/jzf2101), Brown University
 * [Jesse Dodge](http://www.cs.cmu.edu/~jessed/), CMU
 * [Mayoore Jaiswal](https://scholar.google.com/citations?user=Ek3v6HcAAAAJ&hl=en), IBM Research
+* [Rosanne Liu](http://www.rosanneliu.com/), Uber AI Labs
 * [Joelle Pineau](https://www.cs.mcgill.ca/~jpineau/), Mila / McGill University / Facebook AI
 * [Yoshua Bengio](https://mila.quebec/en/yoshua-bengio/), Mila
