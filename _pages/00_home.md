@@ -47,7 +47,7 @@ We accept submissions through our [OpenReview workshop site](https://openreview.
 
 **Submission Deadline: May 17, 2020 23:59 AOE**
 
-Our CFP provides additional details on how to write and submit a retrospective.
+Our [CFP](https://ml-retrospectives.github.io/icml2020/) provides additional details on how to write and submit a retrospective.
 
 ### Organizers
 
