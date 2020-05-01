@@ -12,7 +12,7 @@ If you’re unsure about what a retrospective might look like, see [this explana
 
 #### How to submit
 
-Submissions to the Retrospectives workshop will be handled through OpenReview.
+Submissions to the Retrospectives workshop will be handled through [our OpenReview site](https://openreview.net/group?id=ICML.cc/2020/Workshop/ML_Retrospectives).
 
 **Submission Deadline: May 18, 2020**
 

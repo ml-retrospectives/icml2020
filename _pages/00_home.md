@@ -29,21 +29,23 @@ We are accompanying the workshop with the open-source release of a retrospective
     <td style="text-align:center"><img src="https://www.is.mpg.de/uploads/employee/image/145/L1170153_-_copy.jpg" height="200"></td>
     <td style="text-align:center"><img src="https://images.ctfassets.net/8wprhhvnpfc0/6hLLZq4X1hVzRGwwrIQOvc/9791f266fcb65b02c3aec680de7dd023/Deborah_Raji_headshot.jpg" height="200"></td>
     <td style="text-align:center"><img src="https://www.cs.toronto.edu/~cmaddis/pic/HEADSHOT_IAS4x5.jpg" height="200"></td>
+    <td style="text-align:center"><img src="https://www.privacyconference2018.org/sites/default/files/styles/speaker/public/2018-10/Fung.JPG" height="200"></td>
   </tr>
   <tr>
     <td style="text-align:center"><a href="http://tensorlab.cms.caltech.edu/users/anima/">Anima Anandkumar</a> <br> Caltech, NVIDIA</td>
     <td style="text-align:center"><a href="https://www.is.mpg.de/~bs">Bernhard Schölkopf</a> <br>MPI for Intelligent Systems</td>
     <td style="text-align:center"><a href="https://ainowinstitute.org/people/deborah-raji.html">Deborah Raji</a> <br> NYU AI Now</td>
     <td style="text-align:center"><a href="https://www.cs.toronto.edu/~cmaddis/">Chris Madison</a> <br> University of Toronto</td>
+    <td style="text-align:center"><a href="https://pascale.home.ece.ust.hk/">Pascale Fung</a> <br> HKUST</td>
   </tr>
 </table>
 
 
 ### How do I submit?
 
-We accept submissions through OpenReview. Submissions can be from any subfield of machine learning or related fields of interest to the ICML community.  The main goal of the workshop is to widen what is publishable in ML, and to introduce researchers to more public reflections of their work as part of an ongoing effort to disseminate scientific knowledge more effectively and openly.
+We accept submissions through our [OpenReview workshop site](https://openreview.net/group?id=ICML.cc/2020/Workshop/ML_Retrospectives). Submissions can be from any subfield of machine learning or related fields of interest to the ICML community.  The main goal of the workshop is to widen what is publishable in ML, and to introduce researchers to more public reflections of their work as part of an ongoing effort to disseminate scientific knowledge more effectively and openly.
 
-**Submission Deadline: May 18, 2020**
+**Submission Deadline: May 17, 2020 23:59 AOE**
 
 Our CFP provides additional details on how to write and submit a retrospective.
 
