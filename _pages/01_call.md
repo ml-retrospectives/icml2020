@@ -23,7 +23,7 @@ While a retrospective focuses on a single paper, we also solicit reflections on 
 - Highlighting poor scientific practices in a given area (e.g. related to evaluation, scholarship, etc.), such as [“Troubling trends in machine learning scholarship”, Lipton & Steinhardt (2018)](https://queue.acm.org/detail.cfm?id=3328534).
 - Doing an empirical analysis of a set of related methods that have not been compared before on the same benchmark, such as [“LSTM: A search space odyssey”, Greff et al. (2015)](https://arxiv.org/abs/1503.04069).
 - Discussing what research areas / questions are the most important or promising for achieving a certain goal (e.g. for ‘understanding’ natural language, overcoming bias in ML algorithms, creating ‘artificial general intelligence’, etc.), such as [“Learning and Evaluating General Linguistic Intelligence”, Yogatama et al. (2019)](https://arxiv.org/abs/1901.11373).
-- Describing current trends in a community and their impact on the participants, such as [“Green AI”, Schwartz et al. (2019)]https://arxiv.org/abs/1907.10597).
+- Describing current trends in a community and their impact on the participants, such as [“Green AI”, Schwartz et al. (2019)](https://arxiv.org/abs/1907.10597).
 
 
 #### How to submit
