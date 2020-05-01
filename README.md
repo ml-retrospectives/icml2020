@@ -1,6 +1,6 @@
 # The ML-RetrospectivesICML2020 Workshop Website
 
-[The ML-Retrospectives ICML2020 Workshop](https://ml-retrospectives.github.io/icml2020/) will be held *virtually on July 17, 2 2020* in conjunction with [ICML](https://icml.cc) 
+[The ML-Retrospectives ICML2020 Workshop](https://ml-retrospectives.github.io/icml2020/) will be held **virtually on July 17, 2 2020** in conjunction with [ICML](https://icml.cc) 
 
 ## Submission Information
 
