@@ -49,7 +49,7 @@ We accept submissions through our [OpenReview workshop site](https://openreview.
 
 **Late-breaking deadline: June 21 23:59 Anywhere on Earth. Accept/reject notification will be sent out July 1st.**
 
-Our [CFP](https://ml-retrospectives.github.io/icml2020/) provides additional details on how to write and submit a retrospective.
+Our [CFP](https://ml-retrospectives.github.io/icml2020/cfp/) provides additional details on how to write and submit a retrospective.
 
 ### Organizers
 
