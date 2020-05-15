@@ -34,7 +34,7 @@ Submissions to the Retrospectives workshop will be handled through [our OpenRevi
 
 **Late-breaking deadline: June 21 23:59 Anywhere on Earth. Accept/reject notification will be sent out July 1st.**
 
-Camera ready versions will be submitted as markdown files through our [GitHub repository page](https://https://github.com/ml-retrospectives/icml2020) for publication online.  The camera-ready submission template is available on [GitHub](https://raw.githubusercontent.com/ml-retrospectives/ml-retrospectives.github.io/master/.github/ISSUE_TEMPLATE/submit-retrospective.md).
+Camera ready versions will be submitted as markdown files through our [GitHub repository page](https://github.com/ml-retrospectives/icml2020) for publication online.  The camera-ready submission template is available on [GitHub](https://raw.githubusercontent.com/ml-retrospectives/ml-retrospectives.github.io/master/.github/ISSUE_TEMPLATE/submit-retrospective.md).
 
 #### Reviewing criteria
 
