@@ -26,7 +26,7 @@ We are accompanying the workshop with the open-source release of a retrospective
 <table style="width:75%">
   <tr>
     <td style="text-align:center"><img src="http://tensorlab.cms.caltech.edu/users/anima/images/DP.png" height="175"></td>
-    <td style="text-align:center"><img src="https://www.is.mpg.de/uploads/employee/image/145/L1170153_-_copy.jpg" height="175"></td>
+    <td style="text-align:center"><img src="https://www.is.mpg.de/uploads/employee/image/145/L1170153.jpg" height="175"></td>
     <td style="text-align:center"><img src="https://images.ctfassets.net/8wprhhvnpfc0/6hLLZq4X1hVzRGwwrIQOvc/9791f266fcb65b02c3aec680de7dd023/Deborah_Raji_headshot.jpg" height="175"></td>
     <td style="text-align:center"><img src="https://www.cs.toronto.edu/~cmaddis/pic/HEADSHOT_IAS4x5.jpg" height="175"></td>
     <td style="text-align:center"><img src="https://www.cse.ust.hk/admin/people/faculty/photos/pascale.jpg" height="175"></td>
