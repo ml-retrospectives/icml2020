@@ -37,7 +37,7 @@ We are accompanying the workshop with the open-source release of a retrospective
     <td style="text-align:center"><a href="https://www.cs.toronto.edu/~cmaddis/">Chris Madison</a> <br> University of Toronto</td>
   </tr>
   <tr>
-    <td style="text-align:center"><img src="https://www.cse.ust.hk/admin/people/faculty/photos/pascale.jpg" height="175"></td>
+    <td style="text-align:center"><img src="https://assets.weforum.org/sf_account/image/iko8uiLJPlgmIdLxQO1B5pN1K_HmctZDzBdgptgV0u8.jpg" height="175"></td>
     <td style="text-align:center"><img src="https://www.peterhenderson.co/img/face.jpg" height="175"></td>
     <td style="text-align:center"><img src="http://www.m-mitchell.com/images/meg2.jpg" height="175"></td>
     <td style="text-align:center"><img src="https://dyogatama.github.io/index_files/dy_2.jpg" height="175"></td>
