@@ -35,7 +35,6 @@ We are accompanying the workshop with the open-source release of a retrospective
     <td style="text-align:center"><a href="https://www.is.mpg.de/~bs">Bernhard Schölkopf</a> <br>MPI for Intelligent Systems</td>
     <td style="text-align:center"><a href="https://ainowinstitute.org/people/deborah-raji.html">Deborah Raji</a> <br> NYU AI Now</td>
     <td style="text-align:center"><a href="https://www.cs.toronto.edu/~cmaddis/">Chris Madison</a> <br> University of Toronto</td>
-    <td style="text-align:center"><a href="https://pascale.home.ece.ust.hk/">Pascale Fung</a> <br> HKUST</td>
   </tr>
   <tr>
     <td style="text-align:center"><img src="https://www.cse.ust.hk/admin/people/faculty/photos/pascale.jpg" height="175"></td>
