@@ -38,6 +38,18 @@ We are accompanying the workshop with the open-source release of a retrospective
     <td style="text-align:center"><a href="https://www.cs.toronto.edu/~cmaddis/">Chris Madison</a> <br> University of Toronto</td>
     <td style="text-align:center"><a href="https://pascale.home.ece.ust.hk/">Pascale Fung</a> <br> HKUST</td>
   </tr>
+  <tr>
+    <td style="text-align:center"><img src="https://www.cse.ust.hk/admin/people/faculty/photos/pascale.jpg" height="175"></td>
+    <td style="text-align:center"><img src="https://www.peterhenderson.co/img/face.jpg" height="175"></td>
+    <td style="text-align:center"><img src="http://www.m-mitchell.com/images/meg2.jpg" height="175"></td>
+    <td style="text-align:center"><img src="https://dyogatama.github.io/index_files/dy_2.jpg" height="175"></td>
+  </tr>
+  <tr>
+  <td style="text-align:center"><a href="https://pascale.home.ece.ust.hk/">Pascale Fung</a> <br> HKUST</td>
+    <td style="text-align:center"><a href="https://www.peterhenderson.co/">Peter Henderson</a> <br> Stanford</td>
+    <td style="text-align:center"><a href="http://www.m-mitchell.com/">Margaret Mitchell</a> <br> Google</td>
+    <td style="text-align:center"><a href="https://dyogatama.github.io/">Dani Yogatama</a> <br> DeepMind</td>
+  </tr>
 </table>
 
 
