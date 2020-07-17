@@ -9,7 +9,7 @@ description: A venue for self-reflection in machine learning research
 
 The [ICML](https://icml.cc/) Retrospectives Workshop is about reflecting on machine learning research. This workshop builds upon the [NeurIPS 2019 Retrospectives Workshop](https://ml-retrospectives.github.io/neurips2019/) and encourage the exploration of a new kind of scientific publication, called *retrospectives*.
 
-In conjunction with [ICML](https://icml.cc/), the workshop will be held **virtually on July 17, 2020.**
+In conjunction with [ICML](https://icml.cc/), the workshop will be held virtually on July 17, 2020.  Please see our [schedule](https://ml-retrospectives.github.io/icml2020/schedule/) for details.
 
 
 ### What is a retrospective?
