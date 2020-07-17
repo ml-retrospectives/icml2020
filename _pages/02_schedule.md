@@ -4,7 +4,7 @@ permalink: /schedule/
 title: Schedule
 ---
 
-# NeurIPS 2019 Retrospectives Workshop Schedule
+# ICML 2020 Retrospectives Workshop Schedule
 Friday, July 17 
 Times are listed in Eastern Daylight Time
 
