@@ -67,6 +67,6 @@ Our [CFP](https://ml-retrospectives.github.io/icml2020/cfp/) provides additional
 * [Jessica Forde](https://github.com/jzf2101), Brown University
 * [Jesse Dodge](http://www.cs.cmu.edu/~jessed/), CMU
 * [Mayoore Jaiswal](https://scholar.google.com/citations?user=Ek3v6HcAAAAJ&hl=en), IBM Research
-* [Rosanne Liu](http://www.rosanneliu.com/), Uber AI Labs
+* [Rosanne Liu](http://www.rosanneliu.com/), ML Collective
 * [Joelle Pineau](https://www.cs.mcgill.ca/~jpineau/), Mila / McGill University / Facebook AI
 * [Yoshua Bengio](https://mila.quebec/en/yoshua-bengio/), Mila
