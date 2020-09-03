@@ -33,13 +33,13 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: 
-blog_description: 
+blog_name:
+blog_description:
 
 # Pagination
-paginate: 4
-permalink: 
-paginate_path: 
+paginate: 
+permalink:
+paginate_path:
 
 text:
   pagination:

@@ -16,29 +16,29 @@ In conjunction with [NeurIPS](https://neurips.cc/), the workshop will be held vi
 
 ### Confirmed Speakers
 
-<table style="width:75%">
+<table style="width:67%">
   <tr>
-    <td style="text-align:center"><img src="http://tensorlab.cms.caltech.edu/users/anima/images/DP.png" height="175"></td>
-    <td style="text-align:center"><img src="https://www.is.mpg.de/uploads/employee/image/145/L1170153.jpg" height="175"></td>
-    <td style="text-align:center"><img src="https://images.ctfassets.net/8wprhhvnpfc0/6hLLZq4X1hVzRGwwrIQOvc/9791f266fcb65b02c3aec680de7dd023/Deborah_Raji_headshot.jpg" height="175"></td>
-    <td style="text-align:center"><img src="https://www.cs.toronto.edu/~cmaddis/pic/HEADSHOT_IAS4x5.jpg" height="175"></td>
+    <td style="text-align:center"><img src="https://polisci.columbia.edu/sites/default/files/styles/cu_crop/public/content/Images/ProfilePhotos/Gelman.png?itok=-zHbvJpG" height="175"></td>
+    <td style="text-align:center"><img src="https://www.microsoft.com/en-us/research/uploads/prod/2018/07/Webp.net-resizeimage-6.jpg" height="175"></td>
+    <td style="text-align:center"><img src="https://engineering.tufts.edu/sites/default/files/Hughes%20headshot.png" height="175"></td>
+
   </tr>
   <tr>
-    <td style="text-align:center"><a href="http://tensorlab.cms.caltech.edu/users/anima/">Andrew Gelman</a> <br> Columbia</td>
-    <td style="text-align:center"><a href="https://www.is.mpg.de/~bs">Danielle Belgrave</a> <br>Microsoft Research</td>
-    <td style="text-align:center"><a href="https://ainowinstitute.org/people/deborah-raji.html">Michael C. Hughes</a> <br> Tufts </td>
-    <td style="text-align:center"><a href="https://www.cs.toronto.edu/~cmaddis/">Max Welling</a> <br> Amsterdam</td>
+    <td style="text-align:center"><a href="http://www.stat.columbia.edu/~gelman/">Andrew Gelman</a> <br> Columbia</td>
+    <td style="text-align:center"><a href="https://www.microsoft.com/en-us/research/people/dabelgra/">Danielle Belgrave</a> <br>Microsoft Research</td>
+<td style="text-align:center"><a href="https://www.michaelchughes.com/">Michael C. Hughes</a> <br> Tufts </td>
+
   </tr>
   <tr>
-    <td style="text-align:center"><img src="https://assets.weforum.org/sf_account/image/iko8uiLJPlgmIdLxQO1B5pN1K_HmctZDzBdgptgV0u8.jpg" height="175"></td>
-    <td style="text-align:center"><img src="https://www.peterhenderson.co/img/face.jpg" height="175"></td>
-    <td style="text-align:center"><img src="http://www.m-mitchell.com/images/meg2.jpg" height="175"></td>
-    <td style="text-align:center"><img src="https://dyogatama.github.io/index_files/dy_2.jpg" height="175"></td>
+  <td style="text-align:center"><img src="https://staff.fnwi.uva.nl/m.welling/wp-content/uploads/Max-Welling_0633-LR-small.jpg" height="175"></td>
+    <td style="text-align:center"><img src="https://static.projects.iq.harvard.edu/files/styles/profile_full/public/iacs2/files/pan_weiwei.jpg?m=1594045435&itok=T7QE9rWf" height="175"></td>
+    <td style="text-align:center"><img src="https://www.cs.toronto.edu/~rgrosse/photo.png" height="175"></td>
   </tr>
   <tr>
-  <td style="text-align:center"><a href="https://pascale.home.ece.ust.hk/">Pascale Fung</a> <br> HKUST</td>
-    <td style="text-align:center"><a href="https://www.peterhenderson.co/">Weiwei Pan</a> <br> Harvard</td>
-    <td style="text-align:center"><a href="http://www.m-mitchell.com/">Roger Grosse</a> <br> Google</td>
+
+  <td style="text-align:center"><a href="https://staff.fnwi.uva.nl/m.welling/">Max Welling</a> <br> Amsterdam</td>
+    <td style="text-align:center"><a href="https://iacs.seas.harvard.edu/people/weiwei-pan">Weiwei Pan</a> <br> Harvard</td>
+    <td style="text-align:center"><a href="https://www.cs.toronto.edu/~rgrosse/">Roger Grosse</a> <br> University of Toronto</td>
   </tr>
 </table>
 
@@ -69,5 +69,3 @@ Check out our [CFP](https://i-cant-believe-its-not-better.github.io/neurips2020/
 
 [1] Wikipedia contributors. “I Can’t Believe It’s Not Butter!” In: Wikipedia, The Free Encyclopedia [Internet]. Cited 24 June 2020.
 [2] Blei, D. M. “Build, Compute, Critique, Repeat: Data Analysis with Latent Variable Models.” Annu Rev Stat Appl. 2014;1: 203-232.
-
-
