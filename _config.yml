@@ -1,23 +1,23 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: ML Retrospectives ICML Workshop
+name: I Can't Believe it's not Better! NeurIPS 2020 Workshop
 email:
 description: > # this means to ignore newlines until "url:"
-  A Venue for Self-Reflection in ML Research
+  Bridging the gap between theory and empiricism in probabilistic machine learning
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 url:  # the base hostname & protocol for your site
-baseurl: /icml2020 # the subpath of your site, e.g. /blog/
+baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: ml-retrospectives
+github_username: i-cant-believe-its-not-better
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
@@ -33,13 +33,13 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Accepted Retrospectives
-blog_description: These are retrospectives which have been reviewed and accepted.
+blog_name: 
+blog_description: 
 
 # Pagination
 paginate: 4
-permalink: /accepted_retrospectives/:year/:title/
-paginate_path: /accepted_retrospectives/page:num/
+permalink: 
+paginate_path: 
 
 text:
   pagination:
