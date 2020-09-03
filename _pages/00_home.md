@@ -45,20 +45,22 @@ In conjunction with [NeurIPS](https://neurips.cc/), the workshop will be held vi
 
 ### How do I submit?
 
-We accept submissions through our [OpenReview workshop site](https://openreview.net/group?id=ICML.cc/2020/Workshop/ML_Retrospectives). Submissions can be from any subfield of machine learning or related fields of interest to the ICML community.  The main goal of the workshop is to widen what is publishable in ML, and to introduce researchers to more public reflections of their work as part of an ongoing effort to disseminate scientific knowledge more effectively and openly.
+We accept submissions through our [OpenReview workshop site](https://openreview.net/forum?id=H71fQ1KBizG). 
 
-**Main deadline: October 2 23:59 Anywhere on Earth. Accept/reject notification will be sent out at the latest by October 30 at the latest.**
+<!-- Submissions can be from any subfield of machine learning or related fields of interest to the ICML community.  The main goal of the workshop is to widen what is publishable in ML, and to introduce researchers to more public reflections of their work as part of an ongoing effort to disseminate scientific knowledge more effectively and openly. -->
+
+**Main deadline: October 14 23:59 Anywhere on Earth. Accept/reject notification will be sent out at the latest by October 31 at the latest.**
 
 <!--**Late-breaking deadline: June 21 23:59 Anywhere on Earth. Accept/reject notification will be sent out July 1st.**-->
 
-Check out our [CFP](https://i-cant-believe-its-not-better.github.io/neurips2020/cfp/) for detailed submission guidelines.
+Check out our [CFP](https://i-cant-believe-its-not-better.github.io/cfp/) for detailed submission guidelines.
 
 ### Organizers
 
-* [Ryan Lowe](https://www.cs.mcgill.ca/~rlowe1/), Mila / McGill University
 * [Jessica Forde](https://github.com/jzf2101), Brown University
-* [Jesse Dodge](http://www.cs.cmu.edu/~jessed/), CMU
-* [Mayoore Jaiswal](https://scholar.google.com/citations?user=Ek3v6HcAAAAJ&hl=en), IBM Research
+* [Francisco Ruiz](https://franrruiz.github.io/), DeepMind
+* [Melanie Pradier](https://datascience.harvard.edu/people/melanie-f-pradier), Harvard University
+* [Aaron Schein](http://www.columbia.edu/~as5530/), Columbia University
 
 ### Advisory Board
 
