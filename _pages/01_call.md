@@ -14,13 +14,13 @@ We welcome papers presenting surprising empirical results that do not match a pr
 
 #### How to submit
 
-Submissions to the Retrospectives workshop will be handled through [our OpenReview site](https://openreview.net/group?id=ICML.cc/2020/Workshop/ML_Retrospectives). Please upload a pdf of your retrospective to the website.
+Submissions to the workshop will be handled through [our OpenReview site](https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/ICBINB).
 
-**Main deadline: October 2nd 23:59 Anywhere on Earth. Accept/reject notification will be sent out October 30th.**
+**Main deadline: October 14 23:59 Anywhere on Earth. Accept/reject notification will be sent out October 31.**
 
 <!--**Late-breaking deadline: June 21 23:59 Anywhere on Earth. Accept/reject notification will be sent out July 1st.**-->
 
-Camera ready versions will be submitted as markdown files through our [GitHub repository page](https://github.com/ml-retrospectives/icml2020) for publication online.  The camera-ready submission template is available on [GitHub](https://raw.githubusercontent.com/ml-retrospectives/ml-retrospectives.github.io/master/.github/ISSUE_TEMPLATE/submit-retrospective.md).
+<!-- Camera ready versions will be submitted as markdown files through our [GitHub repository page](https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/ICBINB) for publication online. -->
 
 #### Reviewing criteria
 
