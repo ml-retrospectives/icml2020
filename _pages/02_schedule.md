@@ -4,7 +4,7 @@ permalink: /schedule/
 title: Schedule
 ---
 
-# NeurIPS 2020 I can't Believe It is Not Better Workshop Schedule
+# NeurIPS 2020 "I Can't Believe It's Not Better!" (ICBINB) Workshop Schedule
 Friday, December 11
 <!-- Times are listed in Eastern Daylight Time -->
 
@@ -21,9 +21,9 @@ A tentative schedule is:
 | Poster session                          | 10:00-11:00 | 
 | Contributed talks                          | 11:00-12:00 | 
 | Lunch                          | 12:00-13:00 | 
-| Invited talk - [Weiwei Pan](https://iacs.seas.harvard.edu/people/weiwei-pan) | 13:00-13:30 |
+| Invited talk - [Andrew Gelman](http://www.stat.columbia.edu/~gelman/) | 13:00-13:30 |
 | Invited talk - [Roger Grosse](https://www.cs.toronto.edu/~rgrosse/) | 13:30-14:00 |
-| Invited talk - [Andrew Gelman](http://www.stat.columbia.edu/~gelman/) | 14:00-14:30 |
+| Invited talk - [Weiwei Pan](https://iacs.seas.harvard.edu/people/weiwei-pan) | 14:00-14:30 |
 | Contributed talks                          | 14:30-15:00 | 
 | Breakout discussions                          | 15:00-16:00 |
 | Panel discussion                          | 16:00-17:00 |
