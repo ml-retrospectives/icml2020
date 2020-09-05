@@ -1,7 +1,7 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: I Can't Believe it's not Better! NeurIPS 2020 Workshop
+name: "I Can't Believe It's Not Better!" (ICBINB) NeurIPS 2020 Workshop
 email:
 description: > # this means to ignore newlines until "url:"
   Bridging the gap between theory and empiricism in probabilistic machine learning
