@@ -5,11 +5,6 @@ title: Call for Papers
 description: ICBINB@NeurIPS 2020
 ---
 
-Understanding counter-intuitive results is essential, but under-valued, in an increasingly competitive and fast-paced research environment. This workshop aims to rescue papers with fresh and powerful insights that would otherwise fall into the graveyard of forgotten papers. Such works might be high-hanging fruits in the tree of science, and are often those that need help the most. Benefits from this workshop include:
-1. encouraging transparency and rigor in the scientific process
-2. sparing time of researchers by documenting failed attempts
-3. opening new research directions by identifying unexpected behaviors.
-
 We welcome papers presenting surprising empirical results that do not match a priori intuition nor theoretical expectations, or that highlight failure modes of current approaches. Code sharing is strongly encouraged. Submissions will concentrate on anomalies in:
 + *Data*: idiosyncratic aspects of a dataset that affect the outcome in an unexpected way
 + *Modeling*: simplistic or misspecified model assumptions
