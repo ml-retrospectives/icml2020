@@ -17,6 +17,8 @@ Two tracks will be considered:
 
 **“Questioning default practices” track**: Papers in this track highlight undesired effects or anomalous behaviors in practices that are widespread or taken for granted in the community. Some examples are questionable performance metrics, historic baseline methods, or datasets that are unsuitable in certain settings. This also includes flawed intuitions or unreasonable assumptions that are commonly made. Ideally, papers should suggest potential fixes or research directions to address such bad practices.
 
+If you think your paper falls within the remit of the workshop but does not clearly fit one of these tracks, please contact the organizers at <cant.believe.it.is.not.better@gmail.com>
+
 #### Formatting instructions
 
 We will follow the same formatting instructions as in the main NeurIPS conference. In short, all submissions must be in PDF format and at most 8 pages long; the appendix can have unlimited length. Submissions will be **double-blind**, so you should submit an anonymous preprint.
