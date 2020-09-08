@@ -21,6 +21,12 @@ Two tracks will be considered:
 
 **“Questioning default practices” track**: Papers in this track highlight undesired effects or anomalous behaviors in practices that are widespread or taken for granted in the community. Some examples are questionable performance metrics, historic baseline methods, or datasets that are unsuitable in certain settings. This also includes flawed intuitions or unreasonable assumptions that are commonly made. Ideally, papers should suggest potential fixes or research directions to address such bad practices.
 
+### Formatting instructions
+
+We will follow the same formatting instructions as in the main NeurIPS conference. In short, all submissions must be in PDF format and at most 8 pages long; the appendix can have unlimited length. Submissions will be **double-blind**, so you should submit an anonymous preprint.
+
+You must format your submission using the NeurIPS 2020 [LaTeX style file](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles). The maximum file size for submissions is 50MB. Submissions that violate the NeurIPS style (e.g., by decreasing margins or font sizes) or page limits may be rejected without further review.
+
 #### How to submit
 
 Submissions to the workshop will be handled through [our OpenReview site](https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/ICBINB).
