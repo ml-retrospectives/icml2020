@@ -2,7 +2,7 @@
 layout: page
 permalink: /cfp/
 title: Call for Papers
-description: ICBINB@NeurIPS 2020 Call for Papers
+description: ICBINB@NeurIPS 2020 - Bridging the gap between theory and empiricism in probabilistic machine learning
 ---
 
 Understanding counter-intuitive results is essential, but under-valued, in an increasingly competitive and fast-paced research environment. This workshop aims to rescue papers with fresh and powerful insights that would otherwise fall into the graveyard of forgotten papers. Such works might be high-hanging fruits in the tree of science, and are often those that need help the most. Benefits from this workshop include:

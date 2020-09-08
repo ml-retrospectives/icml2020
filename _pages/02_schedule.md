@@ -2,7 +2,7 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-description: ICBINB@NeurIPS 2020 Workshop Schedule
+description: ICBINB@NeurIPS 2020 - Bridging the gap between theory and empiricism in probabilistic machine learning
 ---
 
 <!-- # NeurIPS 2020 "I Can't Believe It's Not Better!" (ICBINB) Workshop Schedule -->
