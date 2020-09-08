@@ -69,9 +69,9 @@ Check out our [CFP](https://i-cant-believe-its-not-better.github.io/cfp/) for de
 * [David Blei](http://www.cs.columbia.edu/~blei/), Columbia University
 * [Hanna Wallach](http://dirichlet.net/), Microsoft Research
 
-## Contact
+### Contact
 
 For any question or suggestion, please contact us at: <cant.believe.it.is.not.better@gmail.com>
 
-[^1] Wikipedia contributors. “I Can’t Believe It’s Not Butter!” In: Wikipedia, The Free Encyclopedia [Internet]. Cited 24 June 2020.
-[^2] Blei, D. M. “Build, Compute, Critique, Repeat: Data Analysis with Latent Variable Models.” Annu Rev Stat Appl. 2014;1: 203-232.
+[^1]: Wikipedia contributors. “I Can’t Believe It’s Not Butter!” In: Wikipedia, The Free Encyclopedia [Internet]. Cited 24 June 2020.
+[^2]: Blei, D. M. “Build, Compute, Critique, Repeat: Data Analysis with Latent Variable Models.” Annu Rev Stat Appl. 2014;1: 203-232.
