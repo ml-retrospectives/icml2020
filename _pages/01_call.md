@@ -25,7 +25,7 @@ Two tracks will be considered:
 
 Submissions to the workshop will be handled through [our OpenReview site](https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/ICBINB).
 
-**Main deadline: October 14 23:59 Anywhere on Earth. Accept/reject notification will be sent out October 31.**
+**Main deadline: October 14 23:59 Anywhere on Earth. Accept/reject notification will be sent out by October 31st.**
 
 <!--**Late-breaking deadline: June 21 23:59 Anywhere on Earth. Accept/reject notification will be sent out July 1st.**-->
 
