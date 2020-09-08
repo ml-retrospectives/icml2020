@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /values/
-title: Values
-description: Values and Impact of ICBINB@NeurIPS 2020
+permalink: /impact/
+title: Impact
+description: ICBINB@NeurIPS 2020
 ---
 
 #### Enhancing research

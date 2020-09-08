@@ -2,8 +2,8 @@
 layout: home
 permalink: /
 title:
-desc_title: I Can't Believe It's Not Better! <br/>ICBINB@NeurIPS 2020 Workshop
-description: Bridging the gap between theory and empiricism in probabilistic machine learning
+desc_title: I Can't Believe It's Not Better! Workshop
+description: ICBINB@NeurIPS 2020: Bridging the gap between theory and empiricism in probabilistic machine learning
 ---
 
 We’ve all been there. A creative spark leads to a beautiful idea. We love the idea, we nurture it, and name it. The idea is elegant: all who hear it fawn over it. The idea is justified: all of the literature we have read supports it. But, lo and behold: once we sit down to implement the idea, it doesn’t work. We check our code for software bugs. We rederive our derivations. We try again and still, it doesn’t work. We Can’t Believe It’s Not Better.[^1]

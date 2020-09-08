@@ -2,9 +2,10 @@
 layout: page
 permalink: /schedule/
 title: Schedule
+description: ICBINB@NeurIPS 2020 Workshop Schedule
 ---
 
-# NeurIPS 2020 "I Can't Believe It's Not Better!" (ICBINB) Workshop Schedule
+<!-- # NeurIPS 2020 "I Can't Believe It's Not Better!" (ICBINB) Workshop Schedule -->
 Friday, December 11
 <!-- Times are listed in Eastern Daylight Time -->
 
