@@ -33,7 +33,7 @@ Submissions to the workshop will be handled through [our OpenReview site](https:
 
 #### Reviewing criteria
 
-We plan to create an open-minded and diverse space for promising works regardless of the final outcome by providing reviewers with concise guidelines that reward thorough understanding, transparency, and reproducibility rather than high performance. Reviewers will nominate papers with exemplary scientific rigor for publication in PMLR. Papers should clearly convey the interest of the unexpected behavior and demonstrate a high-quality research process.
+We plan to create an open-minded and diverse space for promising works regardless of the final outcome by providing reviewers with concise guidelines that reward thorough understanding, transparency, and reproducibility rather than high performance. **Reviewers will nominate papers with exemplary scientific rigor for publication in PMLR**. Papers should clearly convey the interest of the unexpected behavior and demonstrate a high-quality research process.
 
 <!-- We will be selecting for submissions that provide interesting insights on unexpected results. Morevover, we expect all submissions to follow the guidelines of basic courtesy and respect, and to abide by our [code of conduct](https://i-cant-believe-its-not-better.github.io/neurips2020/coc). While there is no page limit, we encourage authors to be concise. -->
 We will be selecting for submissions that provide interesting insights on unexpected results. Morevover, we expect all submissions to follow the guidelines of basic courtesy and respect. While there is no page limit, we encourage authors to be concise.
