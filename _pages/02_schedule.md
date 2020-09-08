@@ -2,7 +2,7 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-description: ICBINB@NeurIPS 2020 - Bridging the gap between theory and empiricism in probabilistic machine learning
+description: ICBINB@NeurIPS 2020
 ---
 
 <!-- # NeurIPS 2020 "I Can't Believe It's Not Better!" (ICBINB) Workshop Schedule -->
@@ -11,7 +11,7 @@ Friday, December 11
 
 This workshop proposal is unique in its emphasis on the gap between theory and empirical results, and its goal to share methodological best practices in a community-building setting. Its focus on the probabilistic ML community will gather researchers that speak the same language and are able to combine knowledge in a modular way. This will allow for productive methodological feedback, targeted discussions, and constructive critiques through, e.g., poster and breakout sessions.
 
-A tentative schedule is:
+You can find below a tentative schedule (exact times are susceptible to change and will be confirmed later on):
 
 | Opening remarks                    | 7:45-8:00 |
 | Invited talk - [Max Welling](https://staff.fnwi.uva.nl/m.welling/)         | 8:00-8:30|

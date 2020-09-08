@@ -2,7 +2,7 @@
 layout: page
 permalink: /impact/
 title: Impact
-description: ICBINB@NeurIPS 2020 - Bridging the gap between theory and empiricism in probabilistic machine learning
+description: ICBINB@NeurIPS 2020
 ---
 
 #### Enhancing research
