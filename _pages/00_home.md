@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 title:
-desc_title: I Can't Believe It's Not Better! @ NeurIPS Workshop
+desc_title: I Can't Believe It's Not Better! Workshop
 description: ICBINB@NeurIPS 2020 - Bridging the gap between theory and empiricism in probabilistic machine learning
 ---
 
