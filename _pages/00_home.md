@@ -49,7 +49,7 @@ We accept submissions through our [OpenReview workshop site](https://openreview.
 
 <!-- Submissions can be from any subfield of machine learning or related fields of interest to the ICML community.  The main goal of the workshop is to widen what is publishable in ML, and to introduce researchers to more public reflections of their work as part of an ongoing effort to disseminate scientific knowledge more effectively and openly. -->
 
-**Main deadline: October 14 23:59 Anywhere on Earth. Accept/reject notification will be sent out by October 31st.**
+**Main deadline: October 14th 23:59 Anywhere on Earth. Accept/reject notification will be sent out by October 31st.**
 
 <!--**Late-breaking deadline: June 21 23:59 Anywhere on Earth. Accept/reject notification will be sent out July 1st.**-->
 
