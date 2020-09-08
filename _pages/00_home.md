@@ -12,7 +12,7 @@ In this workshop, we will encourage probabilistic machine learning researchers w
 
 Focusing on the probabilistic machine learning community will facilitate this endeavor, not only by gathering experts that speak the same language, but also by exploiting the modularity of probabilistic framework. Probabilistic machine learning separates modeling assumptions, inference, and model checking into distinct phases [2]; this facilitates criticism when the final outcome does not meet prior expectations. We aim to create an open-minded and diverse space for researchers to share unexpected or negative results and help one another improve their ideas.
 
-In conjunction with [NeurIPS](https://neurips.cc/), the workshop will be held virtually on Friday 11th, December 2020.  Please see our [schedule](https://i-cant-believe-its-not-better.github.io/neurips2020/schedule/) for details.
+In conjunction with [NeurIPS](https://neurips.cc/), the workshop will be held virtually on Friday 11th, December 2020.  Please see our [schedule](https://i-cant-believe-its-not-better.github.io/schedule/) for details.
 
 ### Confirmed Speakers
 
@@ -59,7 +59,7 @@ Check out our [CFP](https://i-cant-believe-its-not-better.github.io/cfp/) for de
 
 * [Jessica Forde](https://github.com/jzf2101), Brown University
 * [Francisco Ruiz](https://franrruiz.github.io/), DeepMind
-* [Melanie Pradier](https://datascience.harvard.edu/people/melanie-f-pradier), Harvard University
+* [Melanie F. Pradier](https://melaniefp.github.io/), Harvard University
 * [Aaron Schein](http://www.columbia.edu/~as5530/), Columbia University
 
 ### Advisory Board

@@ -4,13 +4,22 @@ permalink: /cfp/
 title: Call for Papers
 ---
 
-Understanding counter-intuitive results is essential, but under-valued, in an increasingly competitive and fast-paced research environment. This workshop aims to rescue papers with fresh and powerful insights that would otherwise fall into the graveyard of forgotten papers. Such works might be high-hanging fruits in the tree of science, and are often those that need help the most. Benefits from this workshop include: (i) encouraging transparency and rigor in the scientific process; (ii) sparing time of researchers by documenting failed attempts; and (iii) opening new research directions by identifying unexpected behaviors.
+Understanding counter-intuitive results is essential, but under-valued, in an increasingly competitive and fast-paced research environment. This workshop aims to rescue papers with fresh and powerful insights that would otherwise fall into the graveyard of forgotten papers. Such works might be high-hanging fruits in the tree of science, and are often those that need help the most. Benefits from this workshop include:
+(i) encouraging transparency and rigor in the scientific process
+(ii) sparing time of researchers by documenting failed attempts
+(iii) opening new research directions by identifying unexpected behaviors.
 
-We welcome papers presenting surprising empirical results that do not match a priori intuition nor theoretical expectations, or that highlight failure modes of current approaches. Code sharing is strongly encouraged. Submissions will concentrate on anomalies in: a) Data: idiosyncratic aspects of a dataset that affect the outcome in an unexpected way; b) Modeling: simplistic or misspecified model assumptions; c) Inference: challenging situations where inference algorithms fail; d) Validation: unsatisfactory evaluation metrics. Two tracks will be considered:
+We welcome papers presenting surprising empirical results that do not match a priori intuition nor theoretical expectations, or that highlight failure modes of current approaches. Code sharing is strongly encouraged. Submissions will concentrate on anomalies in:
+    a) *Data*: idiosyncratic aspects of a dataset that affect the outcome in an unexpected way
+    b) *Modeling*: simplistic or misspecified model assumptions
+    c) *Inference*: challenging situations where inference algorithms fail
+    d) *Validation*: unsatisfactory evaluation metrics.
 
-“I Can’t Believe It’s Not Better!” track: Papers in this track show unexpected failure modes of new approaches. Although it is preferable that papers explain why the approach performs poorly, this is not essential if the paper demonstrates why the negative result is of interest to the community. Papers in this track should clearly describe the analysis, include a self-critique of the method, and show rigorous results. Authors are encouraged to provide ablation studies to isolate the cause of a method’s performance.
+Two tracks will be considered:
 
-“Questioning default practices” track: Papers in this track highlight undesired effects or anomalous behaviors in practices that are widespread or taken for granted in the community. Some examples are questionable performance metrics, historic baseline methods, or datasets that are unsuitable in certain settings. This also includes flawed intuitions or unreasonable assumptions that are commonly made. Ideally, papers should suggest potential fixes or research directions to address such bad practices.
+**“I Can’t Believe It’s Not Better!” track**: Papers in this track show unexpected failure modes of new approaches. Although it is preferable that papers explain why the approach performs poorly, this is not essential if the paper demonstrates why the negative result is of interest to the community. Papers in this track should clearly describe the analysis, include a self-critique of the method, and show rigorous results. Authors are encouraged to provide ablation studies to isolate the cause of a method’s performance.
+
+**“Questioning default practices” track**: Papers in this track highlight undesired effects or anomalous behaviors in practices that are widespread or taken for granted in the community. Some examples are questionable performance metrics, historic baseline methods, or datasets that are unsuitable in certain settings. This also includes flawed intuitions or unreasonable assumptions that are commonly made. Ideally, papers should suggest potential fixes or research directions to address such bad practices.
 
 #### How to submit
 
