@@ -16,7 +16,7 @@ In conjunction with [NeurIPS](https://neurips.cc/), the workshop will be held vi
 
 ### Confirmed Speakers
 
-<table style="width:67%">
+<table style="width:100%">
   <tr>
     <td style="text-align:center"><img src="https://polisci.columbia.edu/sites/default/files/styles/cu_crop/public/content/Images/ProfilePhotos/Gelman.png?itok=-zHbvJpG" height="175"></td>
     <td style="text-align:center"><img src="https://www.microsoft.com/en-us/research/uploads/prod/2018/07/Webp.net-resizeimage-6.jpg" height="175"></td>
