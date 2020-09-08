@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /
-title: NeurIPS2020
+title:
 desc_title: I Can't Believe It's Not Better! <br/>ICBINB@NeurIPS 2020 Workshop
 description: Bridging the gap between theory and empiricism in probabilistic machine learning
 ---
