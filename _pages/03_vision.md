@@ -2,8 +2,7 @@
 layout: page
 permalink: /values/
 title: Values
-desc_title: Values and Impact of ICBINB@NeurIPS 2020
-description: Bridging the gap between theory and empiricism in probabilistic machine learning
+description: Values and Impact of ICBINB@NeurIPS 2020
 ---
 
 #### Enhancing research
