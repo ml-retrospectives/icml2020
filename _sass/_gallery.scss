@@ -45,4 +45,4 @@ figcaption {
 //    justify-content: space-around;
 //    figure { width : 40%; margin: 1em;   img { width : 100% }  }
 //}
-.custom-images { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around; background: #fafafa; padding: 1rem;   video { width: 40%; margin: 1em; min-width: 250px }  div { width: 90%; text-align: center } }
+.custom-images { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-around; background: #fafafa; padding: 1rem;   video { width: 40%; margin: 1em; min-width: 250px; object-fit: cover; height: 200px }  div { width: 90%; text-align: center } }
