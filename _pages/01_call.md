@@ -21,7 +21,7 @@ If you think your paper falls within the remit of the workshop but does not clea
 
 #### Formatting instructions
 
-We will follow the same formatting instructions as in the main NeurIPS conference. In short, all submissions must be in PDF format and at most 8 pages long; the appendix can have unlimited length. Submissions will be **double-blind**, so you should submit an anonymous preprint.
+We will follow the same formatting instructions as in the main NeurIPS conference. In short, all submissions must be in PDF format and at most 8 pages long (shorter is fine, we encourage authors to be concise); the appendix can have unlimited length. Submissions will be **double-blind**, so you should submit an anonymous preprint.
 
 You must format your submission using the NeurIPS 2020 [LaTeX style file](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles). The maximum file size for submissions is 50MB. Submissions that violate the NeurIPS style (e.g., by decreasing margins or font sizes) or page limits may be rejected without further review.
 
@@ -40,7 +40,8 @@ Submissions to the workshop will be handled through our [OpenReview site](https:
 We plan to create an open-minded and diverse space for promising works regardless of the final outcome by providing reviewers with concise guidelines that reward thorough understanding, transparency, and reproducibility rather than high performance. **Reviewers will nominate papers with exemplary scientific rigor for publication in PMLR**. Papers should clearly convey the interest of the unexpected behavior and demonstrate a high-quality research process.
 
 <!-- We will be selecting for submissions that provide interesting insights on unexpected results. Morevover, we expect all submissions to follow the guidelines of basic courtesy and respect, and to abide by our [code of conduct](https://i-cant-believe-its-not-better.github.io/neurips2020/coc). While there is no page limit, we encourage authors to be concise. -->
-We will be selecting for submissions that provide interesting insights on unexpected results. Morevover, we expect all submissions to follow the guidelines of basic courtesy and respect. While there is no page limit, we encourage authors to be concise.
+We will be selecting for submissions that provide interesting insights on unexpected results. Morevover, we expect all submissions to follow the guidelines of basic courtesy and respect.
+<!-- While there is no page limit, we encourage authors to be concise. -->
 
 Submissions will be evaluated on the following criteria:
 
