@@ -10,9 +10,11 @@ Understanding counter-intuitive results is essential, but under-valued, in an in
 2. sparing time of researchers by documenting failed attempts
 3. opening new research directions by identifying unexpected behaviors.
 
+##### Theory vs Practice
+
 <div class="custom-images">
-<figure> <img src="../assets/img/image1.gif" /> <figcaption>Theory vs Practice</figcaption> </figure>
-<figure> <img src="../assets/img/image2.gif" /> </figure>
+<figure> <img src="../assets/img/image1.gif" height="200" /> <figcaption>Theory</figcaption> </figure>
+<figure> <img src="../assets/img/image2.gif" height="200" /> <figcaption>Practice</figcaption> </figure>
 </div>
 
 #### Enhancing research
