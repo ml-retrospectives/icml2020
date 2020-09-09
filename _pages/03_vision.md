@@ -13,9 +13,13 @@ Understanding counter-intuitive results is essential, but under-valued, in an in
 ##### Theory vs Practice
 
 <div class="custom-images">
+<img src="../assets/img/image1.gif"><img src="../assets/img/image2.gif">
+<div>Theory vs. practice</div>
+<!-- 
+<div class="custom-images">
 <figure> <img src="../assets/img/image1.gif" height="200" /> <figcaption>Theory</figcaption> </figure>
-<figure> <img src="../assets/img/image2.gif" height="200" /> <figcaption>Practice</figcaption> </figure>
-</div>
+<figure> <img src="../assets/img/image2.gif" height="200" /> <figcaption>Practice</figcaption> </figure></div>
+-->
 
 #### Enhancing research
 
