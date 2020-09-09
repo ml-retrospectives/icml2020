@@ -11,8 +11,8 @@ Understanding counter-intuitive results is essential, but under-valued, in an in
 3. opening new research directions by identifying unexpected behaviors.
 
 <div class="custom-images">
-<figure> <img src="../img/image1.gif" /> <figcaption>This is the caption</figcaption> </figure>
-<figure> <img src="../img/image2.gif" /> <figcaption>This is the caption</figcaption> </figure>
+<figure> <img src="../assets/img/image1.gif" /> <figcaption>Theory vs Practice</figcaption> </figure>
+<figure> <img src="../assets/img/image2.gif" /> </figure>
 </div>
 
 #### Enhancing research
