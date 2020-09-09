@@ -39,3 +39,9 @@ figcaption {
     vertical-align: middle;
     font-size: $caption-font-size;
 }
+.custom-images {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    figure { width : 40%; margin: 1em;   img { width : 100% }  }
+}
