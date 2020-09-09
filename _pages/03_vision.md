@@ -17,7 +17,7 @@ Every researcher has faced a situation where a priori  expectations based on sol
 
 <div class="custom-images">
 <img src="../assets/img/image1.gif" height="200" ><img src="../assets/img/image2.gif" height="200" >
-<div>Theory vs. practice[^1]
+<div>Theory vs. practice [1]
 </div>
 </div>
 
@@ -38,4 +38,4 @@ Papers about negative results or highlighted difficulties are in themselves valu
 
 We expect this workshop to help rethink the ML community and to promote modular science composed of smaller but rigorous pieces of knowledge. Increasingly, ML papers are becoming such huge pieces of work that it becomes implausible for the authors to consider all possible scenarios, do enough experimental testing, sensitivity analyses, toy simulations, etc. On top of that, pressure to publish fast often comes at the expense of quality; misaligned incentives between scholarship and short-term measures of success also impact mental health of researchers. Now more than ever, our community needs principled toy examples, extensive simulations, clear statements on method assumptions, and limitations. This workshop will evaluate works on the basis of scientific interest, not on whether they achieve the best final results.
 
-[^1]: source of figures: [research in progress](https://researchinprogress.tumblr.com/post/38702387620/theory-vs-practice)
+[1] source of figures: [research in progress](https://researchinprogress.tumblr.com/post/38702387620/theory-vs-practice)
