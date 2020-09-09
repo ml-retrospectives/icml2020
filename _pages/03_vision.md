@@ -18,7 +18,7 @@ Every researcher has faced a situation where a priori  expectations based on sol
 <div class="custom-images">
 <img src="../assets/img/image1.gif" height="200" ><img src="../assets/img/image2.gif" height="200" >
 <div>Theory vs. practice[^1]
-(source: [research in progress](https://researchinprogress.tumblr.com/post/38702387620/theory-vs-practice) )</div>
+</div>
 </div>
 
 <!-- 
