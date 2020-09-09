@@ -16,7 +16,7 @@ Understanding counter-intuitive results is essential, but under-valued, in an in
 Every researcher has faced a situation where a priori  expectations based on solid arguments/intuition/theory are promising, and yet, not supported by empirical results. What is exactly going on? Why is there such a gap? Understanding counter-intuitive results is hard, time-consuming, and often not worthy if the final outcome is not a clear winner-beats-all approach. Yet, it is our belief that elucidating the reasons behind such gaps is extremely valuable per se. Rather than the final result, this workshop focuses on the quality and thoroughness of the scientific procedure, promoting higher quality and principled science (also via proceedings of top works). We hope to redirect some attention of the ML research community towards high-hanging, but potentially juicy fruits. Such a perspective might also open new research directions.
 
 <div class="custom-images">
-<img src="../assets/img/image1.gif" height="200" ><img src="../assets/img/image2.gif" height="200" >
+<img src="../assets/img/video1.mp4" height="200" ><img src="../assets/img/video2.mp4" height="200" >
 <div>Theory vs. practice [1]
 </div>
 </div>
