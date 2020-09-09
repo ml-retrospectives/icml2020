@@ -13,7 +13,7 @@ Understanding counter-intuitive results is essential, but under-valued, in an in
 ##### Theory vs Practice
 
 <div class="custom-images">
-<img src="../assets/img/image1.gif"><img src="../assets/img/image2.gif">
+<img src="../assets/img/image1.gif" height="200" ><img src="../assets/img/image2.gif" height="200" >
 <div>Theory vs. practice</div>
 <!-- 
 <div class="custom-images">
