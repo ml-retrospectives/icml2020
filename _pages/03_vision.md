@@ -15,6 +15,8 @@ Understanding counter-intuitive results is essential, but under-valued, in an in
 <div class="custom-images">
 <img src="../assets/img/image1.gif" height="200" ><img src="../assets/img/image2.gif" height="200" >
 <div>Theory vs. practice</div>
+</div>
+
 <!-- 
 <div class="custom-images">
 <figure> <img src="../assets/img/image1.gif" height="200" /> <figcaption>Theory</figcaption> </figure>
