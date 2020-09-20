@@ -57,7 +57,7 @@ Check out our [CFP](https://i-cant-believe-its-not-better.github.io/cfp/) for de
 
 ### Organizers
 
-* [Jessica Forde](https://github.com/jzf2101), Brown University
+* [Jessica Zosa Forde](https://jzf2101.github.io/), Brown University
 * [Francisco Ruiz](https://franrruiz.github.io/), DeepMind
 * [Melanie F. Pradier](https://melaniefp.github.io/), Harvard University
 * [Aaron Schein](http://www.columbia.edu/~as5530/), Columbia University
