@@ -6,7 +6,7 @@ description: ICBINB@NeurIPS 2020
 ---
 
 <!-- # NeurIPS 2020 "I Can't Believe It's Not Better!" (ICBINB) Workshop Schedule -->
-Friday, December 11
+Saturday, December 12th
 <!-- Times are listed in Eastern Daylight Time -->
 
 This workshop proposal is unique in its emphasis on the gap between theory and empirical results, and its goal to share methodological best practices in a community-building setting. Its focus on the probabilistic ML community will gather researchers that speak the same language and are able to combine knowledge in a modular way. This will allow for productive methodological feedback, targeted discussions, and constructive critiques through, e.g., poster and breakout sessions.
