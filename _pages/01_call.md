@@ -21,9 +21,16 @@ If you think your paper falls within the remit of the workshop but does not clea
 
 #### Formatting instructions
 
-We will follow the same formatting instructions as in the main NeurIPS conference. In short, all submissions must be in PDF format and at most 8 pages long (shorter is fine, we encourage authors to be concise); the appendix can have unlimited length. Submissions will be **double-blind**, so you should submit an anonymous preprint.
+**Important note**: please use the latest Latex template in this webpage. For submission, it is fine if you used the NeurIPS template directly, but please note that you should switch to the Latex style files below for the camera-ready version.
 
-You must format your submission using the NeurIPS 2020 [LaTeX style file](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles). The maximum file size for submissions is 50MB. Submissions that violate the NeurIPS style (e.g., by decreasing margins or font sizes) or page limits may be rejected without further review.
+We will follow the same formatting instructions as in the main NeurIPS conference. In short, all submissions must be in PDF format and at most 8 pages long (shorter is fine and even better, we encourage authors to be concise); the appendix can have unlimited length. Submissions will be **double-blind**, so you should submit an anonymous preprint.
+
+You must format your submission using the LaTeX style files below:
+* [icbinb_neurips_2020.tex](./template/icb_neurips_2020.tex) -- LaTeX template
+* [icbinb_neurips_2020.sty](./template/icb_neurips_2020.tex) -- style file for LaTeX 2e
+* [icbinb_neurips_2020.pdf](./template/icb_neurips_2020.pdf) -- LaTeX template
+
+The maximum file size for submissions is 50MB. Submissions that violate the NeurIPS style (e.g., by decreasing margins or font sizes) or page limits may be rejected without further review.
 
 #### How to submit
 
