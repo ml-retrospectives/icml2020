@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /accepted_papers/
-title: Accepted Papers
+title: Accepted papers
 description: ICBINB@NeurIPS 2020
 ---
 
