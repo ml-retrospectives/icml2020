@@ -5,7 +5,11 @@ title: Accepted Papers
 description: ICBINB@NeurIPS 2020
 ---
 
-* Selective Classification Can Magnify Disparities Across Groups
+* Erik Jones, Shiori Sagawa, Pang Wei Koh, Ananya Kumar, Percy Liang. <b>Selective Classification Can Magnify Disparities Across Groups</b> [<a href="">https://openreview.net/forum?id=HPyhX33H1a9</a>]
+
+* Erik Jones, Shiori Sagawa, Pang Wei Koh, Ananya Kumar, Percy Liang. <b>Selective Classification Can Magnify Disparities Across Groups</b> [<a href="">link</a>]
+
+* M. F. Pradier, T. H. McCoy, M. Hughes, R. H. Perlis and F. Doshi-Velez. <b>Predicting Treatment Discontinuation after Antidepressant Initiation</b>. <i>Nature Translational Psychiatry</i>. 2020. [<a href="https://rdcu.be/b1NVg">link</a>] </li>
 
 * Self-Tuning Stochastic Optimization with Curvature-Aware Gradient Filtering
 
