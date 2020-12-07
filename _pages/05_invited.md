@@ -38,7 +38,7 @@ title: Invited Talks
 
 Prof. Dr. Max Welling is a research chair in Machine Learning at the University of Amsterdam and a VP Technologies at Qualcomm. He has a secondary appointment as a fellow at the Canadian Institute for Advanced Research (CIFAR). Max Welling has served as associate editor in chief of IEEE TPAMI from 2011-2015. He serves on the board of the Neurips foundation since 2015 and has been program chair and general chair of Neurips in 2013 and 2014 respectively. He was also program chair of AISTATS in 2009 and ECCV in 2016 and general chair of MIDL 2018. He is a founding board member of ELLIS. Max Welling is recipient of the ECCV Koenderink Prize in 2010. He directs the Amsterdam Machine Learning Lab (AMLAB), and co-directs the Qualcomm-UvA deep learning lab (QUVA) and the Bosch-UvA Deep Learning lab (DELTA).
 
-#### (8:30-9:30am EST) Danielle Belgrave, Microsoft Research
+#### (8:30-9:00am EST) Danielle Belgrave, Microsoft Research
 
 **Title: Machine Learning for Personalised Healthcare: Why is it not better?**
 
