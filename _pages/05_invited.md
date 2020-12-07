@@ -2,10 +2,7 @@
 layout: page
 permalink: /invited_talks/
 title: Invited talks
-description: ICBINB@NeurIPS 2020
 ---
-
-### Confirmed Speakers
 
 <table style="width:100%;border-bottom: 1px solid black;">
   <tr>
@@ -33,11 +30,13 @@ description: ICBINB@NeurIPS 2020
   </tr>
 </table>
 
-### Description of Invited Talks
+### Details on Invited Talks
 
-#### Max Welling: The LIAR (Learning with Interval Arithmetic Regularization) is Dead (8:00-8:30am EST)
+#### (8:00-8:30am EST) Max Welling
 
-2 years ago we embarked on a project called LIAR. LIAR was going to quantify uncertainty of a network through interval arithmetic (IA) calculations (which are an official IEEE standard).  IA has the beautiful property that the answer of your computation is guaranteed to lie in a computed interval, and as such quantifies very precisely the numerical precision of your computation.  Captured by this elegant idea we applied this to neural networks. In particular, the idea was to add a regularization term to the objective that would try to keep the interval of the network's output small. This is particularly interesting in the context of quantization, where we quite naturally have intervals for the weights, activations and inputs due to their limited precision. By training a full precision neural network with intervals that represent the quantization error, and by encouraging the network to keep the resultant variation in the predictions small, we hoped to learn networks that were inherently robust to quantization noise. So far the good news. In this talk I will try to reconstruct the process of how the project ended up on the scrap pile. I will also try to produce some "lessons learned" from this project and hopefully deliver some advice for those who are going through a similar situation. I still can't believe it didn't work better ;-)
+**Title: The LIAR (Learning with Interval Arithmetic Regularization) is Dead**
+
+*Abstract: 2 years ago we embarked on a project called LIAR. LIAR was going to quantify uncertainty of a network through interval arithmetic (IA) calculations (which are an official IEEE standard).  IA has the beautiful property that the answer of your computation is guaranteed to lie in a computed interval, and as such quantifies very precisely the numerical precision of your computation.  Captured by this elegant idea we applied this to neural networks. In particular, the idea was to add a regularization term to the objective that would try to keep the interval of the network's output small. This is particularly interesting in the context of quantization, where we quite naturally have intervals for the weights, activations and inputs due to their limited precision. By training a full precision neural network with intervals that represent the quantization error, and by encouraging the network to keep the resultant variation in the predictions small, we hoped to learn networks that were inherently robust to quantization noise. So far the good news. In this talk I will try to reconstruct the process of how the project ended up on the scrap pile. I will also try to produce some "lessons learned" from this project and hopefully deliver some advice for those who are going through a similar situation. I still can't believe it didn't work better ;-)*
 
 
 #### (8:30-9:30am EST) Danielle Belgrave - TBD
