@@ -40,9 +40,11 @@ Prof. Dr. Max Welling is a research chair in Machine Learning at the University 
 
 #### (8:30-9:30am EST) Danielle Belgrave, Microsoft Research
 
-**Title: TBD**
+**Title: Machine Learning for Personalised Healthcare: Why is it not better?**
 
-*Abstract: Incoming*
+*Abstract: This talk presents an overview of probabilistic graphical modelling as a strategy for understanding heterogeneous subgroups of patients. The identification of such subgroups may elucidate underlying causal mechanisms which may lead to more targeted treatment and intervention strategies. We will look at (1) the ideal of personalisation within the context of machine learning for healthcare (2) “From the ideal to the reality” and (3) some of the possible pathways to progress for making the ideal of personalised healthcare to reality. The last part of this talk focuses on the pipeline of personalisation and looks at probabilistic graphical models are part of a pipeline.*
+
+Danielle is a machine learning researcher in the Healthcare Intelligence group at Microsoft Research, in Cambridge (UK) where she works on Project Talia.  Her research focuses on integrating medical domain knowledge, probabilistic graphical modelling and causal modelling frameworks to help develop personalized treatment and intervention strategies for mental health. Mental health presents one of the most challenging and under-investigated domains of machine learning research. In Project Talia, she explores how a human-centric approach to machine learning can meaningfully assist in the detection, diagnosis, monitoring, and treatment of mental health problems. Danielle obtained a BSc in Mathematics and Statistics from London School of Economics, an MSc in Statistics from University College London and a PhD in the area of machine learning in health applications from the University of Manchester. Prior to joining Microsoft, Danielle was a tenured Research Fellow at Imperial College London.
 
 #### (9:00-9:30am EST) Michael C. Hughes, Tufts University
 
