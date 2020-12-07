@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /invited_talks/
-title: Description of Invited Talks
+title: Invited Talks
 ---
 
 <table style="width:100%;border-bottom: 1px solid black;">
