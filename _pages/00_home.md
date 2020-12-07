@@ -1,22 +1,24 @@
 ---
 layout: home
 permalink: /
-title: NeurIPS2020
-desc_title: I Can't Believe It is Not Better Workshop @ NeurIPS 2020
-description: Bridging the gap between theory and empiricism in probabilistic machine learning
+title:
+desc_title: I Can't Believe It's Not Better! Workshop
+description: ICBINB@NeurIPS 2020 - Bridging the gap between theory and empiricism in probabilistic machine learning
 ---
 
-We’ve all been there. A creative spark leads to a beautiful idea. We love the idea, we nurture it, and name it. The idea is elegant: all who hear it fawn over it. The idea is justified: all of the literature we have read supports it. But, lo and behold: once we sit down to implement the idea, it doesn’t work. We check our code for software bugs. We rederive our derivations. We try again and still, it doesn’t work. We Can’t Believe It’s Not Better [1].
+**Latest news: The workshop deadline has been extended until Friday October 16th 23:59 Anywhere on Earth!**
+
+We’ve all been there. A creative spark leads to a beautiful idea. We love the idea, we nurture it, and name it. The idea is elegant: all who hear it fawn over it. The idea is justified: all of the literature we have read supports it. But, lo and behold: once we sit down to implement the idea, it doesn’t work. We check our code for software bugs. We rederive our derivations. We try again and still, it doesn’t work. We Can’t Believe It’s Not Better.[^1]
 
 In this workshop, we will encourage probabilistic machine learning researchers who Can’t Believe It’s Not Better to share their beautiful idea, tell us why it should work, and hypothesize why it does not in practice. We also welcome work that highlights pathologies or unexpected behaviors in well-established practices. This workshop will stress the quality and thoroughness of the scientific procedure, promoting transparency, deeper understanding, and more principled science.
 
-Focusing on the probabilistic machine learning community will facilitate this endeavor, not only by gathering experts that speak the same language, but also by exploiting the modularity of probabilistic framework. Probabilistic machine learning separates modeling assumptions, inference, and model checking into distinct phases [2]; this facilitates criticism when the final outcome does not meet prior expectations. We aim to create an open-minded and diverse space for researchers to share unexpected or negative results and help one another improve their ideas.
+Focusing on the probabilistic machine learning community will facilitate this endeavor, not only by gathering experts that speak the same language, but also by exploiting the modularity of probabilistic framework. Probabilistic machine learning separates modeling assumptions, inference, and model checking into distinct phases[^2]; this facilitates criticism when the final outcome does not meet prior expectations. We aim to create an open-minded and diverse space for researchers to share unexpected or negative results and help one another improve their ideas.
 
-In conjunction with [NeurIPS](https://neurips.cc/), the workshop will be held virtually on Friday 11th, December 2020.  Please see our [schedule](https://i-cant-believe-its-not-better.github.io/neurips2020/schedule/) for details.
+In conjunction with [NeurIPS](https://neurips.cc/), the workshop will be held virtually on Saturday 12th, December 2020.  Please see our [schedule](https://i-cant-believe-its-not-better.github.io/schedule/) for details.
 
 ### Confirmed Speakers
 
-<table style="width:67%">
+<table style="width:100%;border-bottom: 1px solid black;">
   <tr>
     <td style="text-align:center"><img src="https://polisci.columbia.edu/sites/default/files/styles/cu_crop/public/content/Images/ProfilePhotos/Gelman.png?itok=-zHbvJpG" height="175"></td>
     <td style="text-align:center"><img src="https://www.microsoft.com/en-us/research/uploads/prod/2018/07/Webp.net-resizeimage-6.jpg" height="175"></td>
@@ -45,11 +47,11 @@ In conjunction with [NeurIPS](https://neurips.cc/), the workshop will be held vi
 
 ### How do I submit?
 
-We accept submissions through our [OpenReview workshop site](https://openreview.net/forum?id=H71fQ1KBizG). 
+We accept submissions through our [OpenReview workshop site](https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/ICBINB).
 
 <!-- Submissions can be from any subfield of machine learning or related fields of interest to the ICML community.  The main goal of the workshop is to widen what is publishable in ML, and to introduce researchers to more public reflections of their work as part of an ongoing effort to disseminate scientific knowledge more effectively and openly. -->
 
-**Main deadline: October 14 23:59 Anywhere on Earth. Accept/reject notification will be sent out at the latest by October 31 at the latest.**
+**Main deadline: ~~October 14th~~ October 16th 23:59 Anywhere on Earth. Accept/reject notification will be sent out by October 31st.**
 
 <!--**Late-breaking deadline: June 21 23:59 Anywhere on Earth. Accept/reject notification will be sent out July 1st.**-->
 
@@ -57,9 +59,9 @@ Check out our [CFP](https://i-cant-believe-its-not-better.github.io/cfp/) for de
 
 ### Organizers
 
-* [Jessica Forde](https://github.com/jzf2101), Brown University
+* [Jessica Zosa Forde](https://jzf2101.github.io/), Brown University
 * [Francisco Ruiz](https://franrruiz.github.io/), DeepMind
-* [Melanie Pradier](https://datascience.harvard.edu/people/melanie-f-pradier), Harvard University
+* [Melanie F. Pradier](https://melaniefp.github.io/), Harvard University
 * [Aaron Schein](http://www.columbia.edu/~as5530/), Columbia University
 
 ### Advisory Board
@@ -69,5 +71,11 @@ Check out our [CFP](https://i-cant-believe-its-not-better.github.io/cfp/) for de
 * [David Blei](http://www.cs.columbia.edu/~blei/), Columbia University
 * [Hanna Wallach](http://dirichlet.net/), Microsoft Research
 
-[1] Wikipedia contributors. “I Can’t Believe It’s Not Butter!” In: Wikipedia, The Free Encyclopedia [Internet]. Cited 24 June 2020.
-[2] Blei, D. M. “Build, Compute, Critique, Repeat: Data Analysis with Latent Variable Models.” Annu Rev Stat Appl. 2014;1: 203-232.
+### Contact
+
+For any question or suggestion, please contact us at: <cant.believe.it.is.not.better@gmail.com>
+
+### References
+
+[^1]: Wikipedia contributors. “I Can’t Believe It’s Not Butter!” In: Wikipedia, The Free Encyclopedia [Internet]. Cited 24 June 2020.
+[^2]: Blei, D. M. “Build, Compute, Critique, Repeat: Data Analysis with Latent Variable Models.” Annu Rev Stat Appl. 2014;1: 203-232.
