@@ -36,8 +36,6 @@ title: Description of Invited Talks
 
 *Abstract: 2 years ago we embarked on a project called LIAR. LIAR was going to quantify uncertainty of a network through interval arithmetic (IA) calculations (which are an official IEEE standard).  IA has the beautiful property that the answer of your computation is guaranteed to lie in a computed interval, and as such quantifies very precisely the numerical precision of your computation.  Captured by this elegant idea we applied this to neural networks. In particular, the idea was to add a regularization term to the objective that would try to keep the interval of the network's output small. This is particularly interesting in the context of quantization, where we quite naturally have intervals for the weights, activations and inputs due to their limited precision. By training a full precision neural network with intervals that represent the quantization error, and by encouraging the network to keep the resultant variation in the predictions small, we hoped to learn networks that were inherently robust to quantization noise. So far the good news. In this talk I will try to reconstruct the process of how the project ended up on the scrap pile. I will also try to produce some "lessons learned" from this project and hopefully deliver some advice for those who are going through a similar situation. I still can't believe it didn't work better ;-)*
 
-Roger Grosse is an Assistant Professor of Computer Science at the University of Toronto, and a founding member of the Vector Institute for Artificial Intelligence. He received his Ph.D. in computer science from MIT, and then spent two years as a postdoc at the University of Toronto. He holds a Canada Research Chair in Probabilistic Inference and Deep Learning, an Ontario MRIS Early Researcher Award, and a CIFAR Canadian AI Chair.
-
 
 #### (8:30-9:30am EST) Danielle Belgrave, Microsoft Research
 
@@ -66,6 +64,9 @@ Andrew Gelman is an applied statistician, author of Bayesian Data Analysis and o
 **Title: Why Isn’t Everyone Using Second-Order Optimization?**
 
 *Abstract: In the pre-AlexNet days of deep learning, second-order optimization gave dramatic speedups and enabled training of deep architectures that seemed to be inaccessible to first-order optimization. But today, despite algorithmic advances such as K-FAC, nearly all modern neural net architectures are trained with variants of SGD and Adam. What’s holding us back from using second-order optimization?  I’ll discuss three challenges to applying second-order optimization to modern neural nets: difficulty of implementation, implicit regularization effects of gradient descent, and the effect of gradient noise. All of these factors are significant, though not in the ways commonly believed.*
+
+Roger Grosse is an Assistant Professor of Computer Science at the University of Toronto, and a founding member of the Vector Institute for Artificial Intelligence. He received his Ph.D. in computer science from MIT, and then spent two years as a postdoc at the University of Toronto. He holds a Canada Research Chair in Probabilistic Inference and Deep Learning, an Ontario MRIS Early Researcher Award, and a CIFAR Canadian AI Chair.
+
 
 #### 2:00-2:30pm EST - Weiwei Pan
 
