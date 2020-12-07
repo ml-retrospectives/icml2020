@@ -17,35 +17,20 @@ You can find the schedule below. All times are Eastern Standard Time (EST).
 | Invited talk - [Max Welling](https://staff.fnwi.uva.nl/m.welling/)         | 8:00-8:30|
 | Invited talk - [Danielle Belgrave](https://www.microsoft.com/en-us/research/people/dabelgra/)    | 8:30-9:00 |
 | Invited talk - [Mike Hughes](https://www.michaelchughes.com/)         | 9:00-9:30 |
-<<<<<<< HEAD
-| Spotlight talks                       | 9:30-9:45 |
-| Coffee break                          | 9:45-10:00 |
-| Poster session                          | 10:00-11:00 |
+| Spotlight talks                       | 9:30-9:50 |
+| Coffee break                          | 9:50-10:00 |
+| Poster session 1                          | 10:00-11:00 |
 | Contributed talks                          | 11:00-12:00 |
 | Lunch                          | 12:00-13:00 |
-| Invited talk - [Weiwei Pan](https://iacs.seas.harvard.edu/people/weiwei-pan) | 13:00-13:30 |
-| Invited talk - [Roger Grosse](https://www.cs.toronto.edu/~rgrosse/) | 13:30-14:00 |
-| Invited talk - [Andrew Gelman](http://www.stat.columbia.edu/~gelman/) | 14:00-14:30 |
-| Contributed talks                          | 14:30-15:00 |
-| Breakout discussions                          | 15:00-16:00 |
-| Panel discussion                          | 16:00-17:00 |
-=======
-| Spotlight talks                       | 9:30-9:50 |
-| Coffee break                          | 9:50-10:00 | 
-| Poster session 1                          | 10:00-11:00 | 
-| Contributed talks                          | 11:00-12:00 | 
-| Lunch                          | 12:00-13:00 | 
 | Invited talk - [Andrew Gelman](http://www.stat.columbia.edu/~gelman/) | 13:00-13:30 |
 | Invited talk - [Roger Grosse](https://www.cs.toronto.edu/~rgrosse/) | 13:30-14:00 |
 | Invited talk - [Weiwei Pan](https://iacs.seas.harvard.edu/people/weiwei-pan) | 14:00-14:30 |
-| Spotlight talks                       | 14:30-14:50 | 
+| Spotlight talks                       | 14:30-14:50 |
 | Coffee break                          | 14:50-15:00 |
 | Contributed talks                     | 15:00-15:45 |
 | Poster session 2                      | 15:45-16:45 |
 | Breakout discussions                  | 16:15-16:45 |
 | Panel discussion                      | 16:45-17:45 |
->>>>>>> 51103ab7d5e4186a838416703906be7debba3a0e
-
 
 ### Breakout Discussions
 
