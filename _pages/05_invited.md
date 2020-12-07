@@ -30,8 +30,6 @@ title: Description of Invited Talks
   </tr>
 </table>
 
-### Details on Invited Talks
-
 #### (8:00-8:30am EST) Max Welling, University of Amsterdam
 
 **Title: The LIAR (Learning with Interval Arithmetic Regularization) is Dead**
