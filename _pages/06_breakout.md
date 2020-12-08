@@ -2,12 +2,11 @@
 layout: page
 permalink: /breakouts/
 title: Breakouts
-description: ICBINB@NeurIPS 2020
+description:
 ---
 
-### Breakout Discussions
-
-To adapt the workshop format to its virtual setting and prioritize creative discussions, we will have breakout discussions in small groups on methodological practices in the following areas:
+To adapt the workshop format to its virtual setting and prioritize creative discussions, we will have breakout discussions in small groups on [Gather Town](
+https://gather.town/app/5163xhrHdSWrUZsG/ICBINB).  Each discussion will focus on a different step in the modeling process.  
 
 
 | Topic         | Moderator |
