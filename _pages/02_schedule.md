@@ -20,8 +20,7 @@ You can find the schedule below. All times are Eastern Standard Time (EST).
 | Spotlight talks                       | 9:30-9:50 |
 | Coffee break                          | 9:50-10:00 |
 | Poster session 1                          | 10:00-11:00 |
-| Contributed talks
-blabla| 11:00-12:00 |
+| Contributed talks | 11:00-12:00 |
 | Lunch                          | 12:00-13:00 |
 | Invited talk - [Andrew Gelman](http://www.stat.columbia.edu/~gelman/) | 13:00-13:30 |
 | Invited talk - [Roger Grosse](https://www.cs.toronto.edu/~rgrosse/) | 13:30-14:00 |
