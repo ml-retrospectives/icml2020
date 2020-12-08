@@ -4,31 +4,7 @@ permalink: /invited_talks/
 title: Talks
 ---
 
-<table style="width:100%;border-bottom: 1px solid black;">
-  <tr>
-    <td style="text-align:center"><img src="https://polisci.columbia.edu/sites/default/files/styles/cu_crop/public/content/Images/ProfilePhotos/Gelman.png?itok=-zHbvJpG" height="175"></td>
-    <td style="text-align:center"><img src="https://www.microsoft.com/en-us/research/uploads/prod/2018/07/Webp.net-resizeimage-6.jpg" height="175"></td>
-    <td style="text-align:center"><img src="https://engineering.tufts.edu/sites/default/files/Hughes%20headshot.png" height="175"></td>
-
-  </tr>
-  <tr>
-    <td style="text-align:center"><a href="http://www.stat.columbia.edu/~gelman/">Andrew Gelman</a> <br> Columbia</td>
-    <td style="text-align:center"><a href="https://www.microsoft.com/en-us/research/people/dabelgra/">Danielle Belgrave</a> <br>Microsoft Research</td>
-<td style="text-align:center"><a href="https://www.michaelchughes.com/">Michael C. Hughes</a> <br> Tufts </td>
-
-  </tr>
-  <tr>
-  <td style="text-align:center"><img src="https://staff.fnwi.uva.nl/m.welling/wp-content/uploads/Max-Welling_0633-LR-small.jpg" height="175"></td>
-    <td style="text-align:center"><img src="https://static.projects.iq.harvard.edu/files/styles/profile_full/public/iacs2/files/pan_weiwei.jpg?m=1594045435&itok=T7QE9rWf" height="175"></td>
-    <td style="text-align:center"><img src="https://www.cs.toronto.edu/~rgrosse/photo.png" height="175"></td>
-  </tr>
-  <tr>
-
-  <td style="text-align:center"><a href="https://staff.fnwi.uva.nl/m.welling/">Max Welling</a> <br> Amsterdam</td>
-    <td style="text-align:center"><a href="https://iacs.seas.harvard.edu/people/weiwei-pan">Weiwei Pan</a> <br> Harvard</td>
-    <td style="text-align:center"><a href="https://www.cs.toronto.edu/~rgrosse/">Roger Grosse</a> <br> University of Toronto</td>
-  </tr>
-</table>
+## Invited Talks
 
 #### (8:00-8:30am EST) Max Welling, University of Amsterdam
 
@@ -36,15 +12,11 @@ title: Talks
 
 *Abstract: 2 years ago we embarked on a project called LIAR. LIAR was going to quantify uncertainty of a network through interval arithmetic (IA) calculations (which are an official IEEE standard).  IA has the beautiful property that the answer of your computation is guaranteed to lie in a computed interval, and as such quantifies very precisely the numerical precision of your computation.  Captured by this elegant idea we applied this to neural networks. In particular, the idea was to add a regularization term to the objective that would try to keep the interval of the network's output small. This is particularly interesting in the context of quantization, where we quite naturally have intervals for the weights, activations and inputs due to their limited precision. By training a full precision neural network with intervals that represent the quantization error, and by encouraging the network to keep the resultant variation in the predictions small, we hoped to learn networks that were inherently robust to quantization noise. So far the good news. In this talk I will try to reconstruct the process of how the project ended up on the scrap pile. I will also try to produce some "lessons learned" from this project and hopefully deliver some advice for those who are going through a similar situation. I still can't believe it didn't work better ;-)*
 
-Prof. Dr. Max Welling is a research chair in Machine Learning at the University of Amsterdam and a VP Technologies at Qualcomm. He has a secondary appointment as a fellow at the Canadian Institute for Advanced Research (CIFAR). Max Welling has served as associate editor in chief of IEEE TPAMI from 2011-2015. He serves on the board of the Neurips foundation since 2015 and has been program chair and general chair of Neurips in 2013 and 2014 respectively. He was also program chair of AISTATS in 2009 and ECCV in 2016 and general chair of MIDL 2018. He is a founding board member of ELLIS. Max Welling is recipient of the ECCV Koenderink Prize in 2010. He directs the Amsterdam Machine Learning Lab (AMLAB), and co-directs the Qualcomm-UvA deep learning lab (QUVA) and the Bosch-UvA Deep Learning lab (DELTA).
-
 #### (8:30-9:00am EST) Danielle Belgrave, Microsoft Research
 
 **Title: Machine Learning for Personalised Healthcare: Why is it not better?**
 
 *Abstract: This talk presents an overview of probabilistic graphical modelling as a strategy for understanding heterogeneous subgroups of patients. The identification of such subgroups may elucidate underlying causal mechanisms which may lead to more targeted treatment and intervention strategies. We will look at (1) the ideal of personalisation within the context of machine learning for healthcare (2) “From the ideal to the reality” and (3) some of the possible pathways to progress for making the ideal of personalised healthcare to reality. The last part of this talk focuses on the pipeline of personalisation and looks at probabilistic graphical models are part of a pipeline.*
-
-Danielle is a machine learning researcher in the Healthcare Intelligence group at Microsoft Research, in Cambridge (UK) where she works on Project Talia.  Her research focuses on integrating medical domain knowledge, probabilistic graphical modelling and causal modelling frameworks to help develop personalized treatment and intervention strategies for mental health. Mental health presents one of the most challenging and under-investigated domains of machine learning research. In Project Talia, she explores how a human-centric approach to machine learning can meaningfully assist in the detection, diagnosis, monitoring, and treatment of mental health problems. Danielle obtained a BSc in Mathematics and Statistics from London School of Economics, an MSc in Statistics from University College London and a PhD in the area of machine learning in health applications from the University of Manchester. Prior to joining Microsoft, Danielle was a tenured Research Fellow at Imperial College London.
 
 #### (9:00-9:30am EST) Michael C. Hughes, Tufts University
 
@@ -52,7 +24,6 @@ Danielle is a machine learning researcher in the Healthcare Intelligence group a
 
 *Abstract: This talk considers adding supervision to well-known generative latent variable models (LVMs), including both classic LVMs (e.g. mixture models, topic models) and more recent “deep” flavors (e.g. variational autoencoders). The standard way to add supervision to LVMs would be to treat the added label as another observed variable generated by the graphical model, and then maximize the joint likelihood of both labels and features. We find that across many models, this standard supervision leads to surprisingly negligible improvement in prediction quality over a more naive baseline that first fits an unsupervised model, and then makes predictions given that model's learned low-dimensional representation. We can’t believe it is not better! Further, this problem is not properly solved by previous approaches that just upweight or “replicate” labels in the generative model (the problem is not just that we have more observed features than labels). Instead, we suggest the problem is related to model misspecification, and that the joint likelihood objective does not properly encode the desired performance goals at test time (we care about predicting labels from features, but not features from labels). This motivates a new training objective we call prediction constrained training, which can prioritize the label-from-feature prediction task while still delivering reasonable generative models for the observed features. We highlight promising results of our proposed prediction-constrained framework including recent extensions to semi-supervised VAEs and model-based reinforcement learning.*
 
-Michael C. Hughes ("Mike") is an Assistant Professor of Computer Science at Tufts University. Mike’s research focus is in statistical machine learning and its applications to healthcare. His goal is to develop predictive and explanatory models that find useful structure in large, messy datasets and help people make decisions in the face of uncertainty. His research interests include Bayesian nonparametric models for sequences, networks, and images; optimization algorithms for approximate inference; and semi-supervised learning. Previously, from 2016-2018 he was a postdoctoral fellow in computer science at Harvard's School of Engineering and Applied Sciences (SEAS), advised by Prof. Finale Doshi-Velez. He completed a Ph.D. in the Department of Computer Science at Brown University in 2016 advised by Prof. Erik Sudderth, and an undergraduate degree in 2010 at Olin College of Engineering. You can find his papers and open-source code on the web at www.michaelchughes.com.
 
 #### (1:00-1:30pm EST) Andrew Gelman, Columbia University
 
@@ -60,7 +31,6 @@ Michael C. Hughes ("Mike") is an Assistant Professor of Computer Science at Tuft
 
 *Abstract: We can't fit the models we want to fit because it takes too long to fit them on our computer.  Also, we don't know what models we want to fit until we try a few.  I share some stories of struggles with data-partitioning and parameter-partitioning algorithms, what kinda worked and what didn't.*
 
-Andrew Gelman is an applied statistician, author of Bayesian Data Analysis and other books, and one of the developers of the probabilistic programming language Stan.
 
 #### (1:30-2:00pm EST) Roger Grosse, University of Toronto
 
@@ -68,7 +38,6 @@ Andrew Gelman is an applied statistician, author of Bayesian Data Analysis and o
 
 *Abstract: In the pre-AlexNet days of deep learning, second-order optimization gave dramatic speedups and enabled training of deep architectures that seemed to be inaccessible to first-order optimization. But today, despite algorithmic advances such as K-FAC, nearly all modern neural net architectures are trained with variants of SGD and Adam. What’s holding us back from using second-order optimization?  I’ll discuss three challenges to applying second-order optimization to modern neural nets: difficulty of implementation, implicit regularization effects of gradient descent, and the effect of gradient noise. All of these factors are significant, though not in the ways commonly believed.*
 
-Roger Grosse is an Assistant Professor of Computer Science at the University of Toronto, and a founding member of the Vector Institute for Artificial Intelligence. He received his Ph.D. in computer science from MIT, and then spent two years as a postdoc at the University of Toronto. He holds a Canada Research Chair in Probabilistic Inference and Deep Learning, an Ontario MRIS Early Researcher Award, and a CIFAR Canadian AI Chair.
 
 
 #### 2:00-2:30pm EST - Weiwei Pan
@@ -76,3 +45,8 @@ Roger Grosse is an Assistant Professor of Computer Science at the University of 
 **Title: What are Useful Uncertainties for Deep Learning and How Do We Get Them?**
 
 *Abstract: While deep learning has demonstrable success on many tasks, the point estimates provided by standard deep models can lead to overfitting and provide no uncertainty quantification on predictions.  However, when models are applied to critical domains such as autonomous driving, precision health care, or criminal justice, reliable measurements of a model's predictive uncertainty may be as crucial as correctness of its predictions. In this talk, we examine a number of deep (Bayesian) models that promise to capture complex forms for predictive uncertainties, we also examine metrics commonly used to such uncertainties. We aim to highlight strengths and limitations of these models as well as the metrics; we also discuss ideas to improve both in meaningful ways for downstream tasks.*
+
+
+## Contributed Talks
+
+(details coming soon)

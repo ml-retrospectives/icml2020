@@ -30,4 +30,4 @@ You can find the schedule below. All times are Eastern Standard Time (EST).
 | Contributed talks (T. Nguyen; R. Chen; E. Gordon-Rodriguez)       | 15:00-15:45 |
 | Poster session 2 in [Gather.Town](https://gather.town/app/5163xhrHdSWrUZsG/ICBINB)                    | 15:45-16:45 |
 | Breakout discussions in [Gather.Town](https://gather.town/app/5163xhrHdSWrUZsG/ICBINB)                 | 16:15-16:45 |
-| **Panel discussion** - Sinead Williamson, Laurent Dinh, Neil Lawrence, Kristian Lum, Sinead Williamson, moderator: Hanna Wallach                      | 16:45-17:45 |
+| **Panel discussion** - Sinead Williamson, Laurent Dinh, Neil Lawrence, Kristian Lum, Tamara Broderick, moderator: Hanna Wallach                      | 16:45-17:45 |
