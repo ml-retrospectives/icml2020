@@ -19,15 +19,15 @@ You can find the schedule below. All times are Eastern Standard Time (EST).
 | **Invited talk** - Michael C. Hughes: *The Case for Prediction Constrained Training*         | 9:00-9:30 |
 | Spotlight talks (M. Selosse; D. Cai; W. Ronny; U. Madhushani; E. Jones; Y. Rudolph)                       | 9:30-9:50 |
 | Coffee break                          | 9:50-10:00 |
-| Poster session 1                          | 10:00-11:00 |
-| Contributed talks                          | 11:00-12:00 |
+| Poster session 1 in [Gather.Town](https://gather.town/app/5163xhrHdSWrUZsG/ICBINB)                         | 10:00-11:00 |
+| Contributed talks (C. Le Lan; F. Bao; E. Jorge)                          | 11:00-11:45 |
 | Lunch                          | 12:00-13:00 |
 | **Invited talk** - Andrew Gelman: *It Doesn’t Work, But The Alternative Is Even Worse: Living With Approximate Computation* | 13:00-13:30 |
 | **Invited talk** - Roger Grosse: *Why Isn’t Everyone Using Second-Order Optimization?* | 13:30-14:00 |
 | **Invited talk** - Weiwei Pan: *What are Useful Uncertainties for Deep Learning and How Do We Get Them?* | 14:00-14:30 |
 | Spotlight talks (V. Fortuin; Z. Wang; S. Yan; M. Frank; R. Camino; A. Gregorio)                       | 14:30-14:50 |
 | Coffee break                          | 14:50-15:00 |
-| Contributed talks                     | 15:00-15:45 |
-| Poster session 2                      | 15:45-16:45 |
-| Breakout discussions                  | 16:15-16:45 |
+| Contributed talks (T. Nguyen; R. Chen; E. Gordon-Rodriguez)       | 15:00-15:45 |
+| Poster session 2 in [Gather.Town](https://gather.town/app/5163xhrHdSWrUZsG/ICBINB)                    | 15:45-16:45 |
+| Breakout discussions in [Gather.Town](https://gather.town/app/5163xhrHdSWrUZsG/ICBINB)                 | 16:15-16:45 |
 | Panel discussion                      | 16:45-17:45 |
