@@ -8,7 +8,7 @@ description:
 To adapt the workshop format to its virtual setting and prioritize creative discussions, we will have breakout discussions in small groups on [Gather Town](
 https://gather.town/app/5163xhrHdSWrUZsG/ICBINB).
 
-<figure> <img src="../assets/img/gathertown/05_breakout.png" height="400" /> <figcaption>GatherTown environment for Breakouts</figcaption> </figure>
+<figure> <img src="../assets/img/gathertown/05_breakout.png" height="300" /> <figcaption>GatherTown environment for Breakouts</figcaption> </figure>
 
 ### What are breakouts?
 
