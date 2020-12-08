@@ -17,17 +17,17 @@ You can find the schedule below. All times are Eastern Standard Time (EST).
 | Invited talk - [Max Welling](https://staff.fnwi.uva.nl/m.welling/)         | 8:00-8:30|
 | Invited talk - [Danielle Belgrave](https://www.microsoft.com/en-us/research/people/dabelgra/)    | 8:30-9:00 |
 | Invited talk - [Mike Hughes](https://www.michaelchughes.com/)         | 9:00-9:30 |
-| Spotlight talks                       | 9:30-9:50 |
+| Spotlight talks (M. Selosse; D. Cai; W. Ronny; U. Madhushani; E. Jones; Y. Rudolph)                       | 9:30-9:50 |
 | Coffee break                          | 9:50-10:00 |
 | Poster session 1                          | 10:00-11:00 |
-| Contributed talks | 11:00-12:00 |
+| Contributed talks (C. Le Lan; F. Bao; E. Jorge) | 11:00-12:00 |
 | Lunch                          | 12:00-13:00 |
 | Invited talk - [Andrew Gelman](http://www.stat.columbia.edu/~gelman/) | 13:00-13:30 |
 | Invited talk - [Roger Grosse](https://www.cs.toronto.edu/~rgrosse/) | 13:30-14:00 |
 | Invited talk - [Weiwei Pan](https://iacs.seas.harvard.edu/people/weiwei-pan) | 14:00-14:30 |
-| Spotlight talks                       | 14:30-14:50 |
+| Spotlight talks (V. Fortuin; Z. Wang; S. Yan; M. Frank; R. Camino; A. Gregorio)                       | 14:30-14:50 |
 | Coffee break                          | 14:50-15:00 |
-| Contributed talks                     | 15:00-15:45 |
+| Contributed talks (T. Nguyen, R. Chen, E. Gordon)   | 15:00-15:45 |
 | Poster session 2                      | 15:45-16:45 |
 | Breakout discussions                  | 16:15-16:45 |
 | Panel discussion                      | 16:45-17:45 |
