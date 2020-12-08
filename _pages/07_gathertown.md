@@ -6,21 +6,21 @@ description:
 ---
 
 During the whole duration of the Workshop, we have enabled a virtual [Gather Town](
-https://gather.town/app/5163xhrHdSWrUZsG/ICBINB) for attendees to interact, socialize, meet new people and talk about research, either at the posters, at the breakout discussions, or at the virtual bar!
+https://gather.town/app/5163xhrHdSWrUZsG/ICBINB) for attendees to interact, socialize, meet new people and talk about research, either at the posters, at the breakout discussions, or at the virtual bar! To connect, simply click on the provided link.
 
-<figure> <img src="../assets/img/gathertown/01_main_room.png" height="300" /> <figcaption>This is the main room, where your avatar will appear.</figcaption> </figure>
+<figure> <img src="../assets/img/gathertown/01_main_room.png" height="400" /> <figcaption>This is the main room, where your avatar will appear.</figcaption> </figure>
 <div class="custom-images">
-<figure> <img src="../assets/img/gathertown/02_poster_room.png" height="400" /> <figcaption></figcaption> </figure>
-<figure> <img src="../assets/img/gathertown/03_poster_preview.png" height="400" /> <figcaption></figcaption> </figure>
-<figure> <img src="../assets/img/gathertown/04_poster.png" height="400" /> <figcaption></figcaption> </figure>
+<figure> <img src="../assets/img/gathertown/02_poster_room.png" height="400" /> <figcaption></figcaption>To the right, you will find the poster area. Press X to interact with a poster.</figure>
+<figure> <img src="../assets/img/gathertown/05_breakout.png" height="400" /> <figcaption></figcaption>In the main room, you can find the area for [breakout discussions](https://i-cant-believe-its-not-better.github.io/breakouts/). </figure>
+<figure> <img src="../assets/img/gathertown/04_poster.png" height="400" /> <figcaption>When watching a poster, you can click on the bottom on the right to get a laser pointer or to zoom in.</figcaption> </figure>
 </div>
 
 <div class="custom-images">
-<figure> <img src="../assets/img/gathertown/05_breakout.png" height="400" /> <figcaption></figcaption> </figure>
-<figure> <img src="../assets/img/gathertown/06_bar.png" height="400" /> <figcaption></figcaption> </figure></div>
+<figure> <img src="../assets/img/gathertown/06_bar.png" height="400" /> <figcaption>To the left, you will find the social lounge, perfect to start new conversations!</figcaption> </figure>
+</div>
 
 <!--<figure> <img src="../assets/img/gathertown/05_breakout.png" height="300" /> <figcaption>GatherTown environment for Breakouts</figcaption> </figure>-->
 
-### How does GatherTown work?
+<!-- <figure> <img src="../assets/img/gathertown/03_poster_preview.png" height="400" /> <figcaption></figcaption> </figure> -->
 
-GatherTown is a virtual environment where you will be able to interact through video and chat with other participants.
+<!-- GatherTown is a virtual environment where you will be able to interact through video and chat with other participants. -->
