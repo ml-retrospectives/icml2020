@@ -18,7 +18,7 @@ A breakout is a 30min informal discussion that will take place at **16h15-16h45p
 | Crazy data        | [Stephanie Hyland](https://sthy.land/pages/bio.html) |
 | Tricky priors         | [Roger Grosse](http://www.cs.toronto.edu/~rgrosse/) |
 | Muddled models      | [Isabel Valera](https://ivaleram.github.io/) |
-| Bumpy inference  | [Francisco Ruiz](https://franrruiz.github.io/)  |
+| Bumpy inference  | [Weiwei Pan](https://iacs.seas.harvard.edu/people/weiwei-pan)  |
 | Off metrics | [Tamara Broderick](https://people.csail.mit.edu/tbroderick/) |
 | | |
 
