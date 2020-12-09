@@ -4,7 +4,7 @@ permalink: /invited_talks/
 title: Talks
 ---
 
-## Invited Talks
+### Invited Talks
 
 #### (8:00-8:30am EST) Max Welling, University of Amsterdam
 
@@ -47,6 +47,35 @@ title: Talks
 *Abstract: While deep learning has demonstrable success on many tasks, the point estimates provided by standard deep models can lead to overfitting and provide no uncertainty quantification on predictions.  However, when models are applied to critical domains such as autonomous driving, precision health care, or criminal justice, reliable measurements of a model's predictive uncertainty may be as crucial as correctness of its predictions. In this talk, we examine a number of deep (Bayesian) models that promise to capture complex forms for predictive uncertainties, we also examine metrics commonly used to such uncertainties. We aim to highlight strengths and limitations of these models as well as the metrics; we also discuss ideas to improve both in meaningful ways for downstream tasks.*
 
 
-## Contributed Talks
+### Contributed Talks
 
-(details coming soon)
+#### Morning session (11:00-11:45am EST)
+
+* Charline Le Lan, Laurent Dinh. [Perfect density models cannot guarantee anomaly detection](https://openreview.net/pdf?id=6rTxPcEL7-)
+
+*Abstract: Thanks to the tractability of their likelihood, some deep generative models showpromise for seemingly straightforward but important applications like anomalydetection, uncertainty estimation, and active learning.  However, the likelihoodvalues empirically attributed to anomalies conflict with the expectations theseproposed applications suggest. In this paper, we take a closer look at the behaviorof  distribution  densities  and  show  that  these  quantities  carry  less  meaningfulinformation than previously thought, beyond estimation issues or the curse ofdimensionality. We conclude that the use of these likelihoods for out-of-distributiondetection relies on strong and implicit hypotheses, and highlight the necessity ofexplicitly formulating these assumptions for reliable anomaly detection.*
+
+* Fan Bao, Kun Xu, Chongxuan Li, Lanqing HONG, Jun Zhu, Bo Zhang. [Variational (Gradient) Estimate of the Score Function in Energy-based Latent Variable Models](https://openreview.net/pdf?id=Ba99GJWpfdu)
+
+*Abstract: The learning and evaluation of energy-based latent variable models (EBLVMs)without any structural assumptions are highly challenging, because the true posteri-ors and the partition functions in such models are generally intractable. This paperpresents variational estimates of the score function and its gradient with respectto the model parameters in a general EBLVM, referred to asVaESandVaGESrespectively. The variational posterior is trained to minimize a certain divergenceto the true model posterior and the bias in both estimates can be bounded by thedivergence theoretically.  With a minimal model assumption, VaES and VaGEScan be applied to thekernelized Stein discrepancy(KSD) andscore matching(SM)-based methods to learn EBLVMs. Besides, VaES can also be used to estimatetheexact Fisher divergencebetween the data and general EBLVMs.*
+
+* Emilio Jorge, Hannes Eriksson, Christos Dimitrakakis, Debabrota Basu, Divya Grover. [Inferential Induction: A Novel Framework for Bayesian Reinforcement Learning](https://openreview.net/pdf?id=z7UGFIdDFXj)
+
+*Abstract: Bayesian Reinforcement Learning (BRL) offers a decision-theoretic solution tothe reinforcement learning problem. While “model-based” BRL algorithms havefocused either on maintaining a posterior distribution on models, BRL “model-free” methods try to estimate value function distributions but make strong implicitassumptions or approximations. We describe a novel Bayesian framework,in-ferential induction, for correctly inferring value function distributions from data,which leads to a new family of BRL algorithms. We design an algorithm, BayesianBackwards Induction (BBI), with this framework. We experimentally demonstratethat BBI is competitive with the state of the art. However, its advantage relative toexisting BRL model-free methods is not as great as we have expected, particularlywhen the additional computational burden is taken into account.*
+
+
+#### Afternoon session (3:00-3:45pm EST)
+
+
+* Tin D. Nguyen, Jonathan H. Huggins, Lorenzo Masoero, Lester Mackey, Tamara Broderick. [Independent versus truncated finite approximations for Bayesian nonparametric inference](https://openreview.net/pdf?id=t9Lws1RctT)
+
+*Abstract: Bayesian nonparametric models based on completely random measures (CRMs) offers flexibility when the number of clusters or latent components in a data set is unknown. However, managing the infinite dimensionality of CRMs often leads to slow computation during inference. Practical inference typically relies on either integrating out the infinite-dimensional parameter or using a finite approximation: a truncated finite approximation (TFA) or an independent finite approximation (IFA). The atom weights of TFAs are constructed sequentially, while the atoms of IFAs are independent, which facilitates more convenient inference schemes. While the approximation error of TFA has been systematically addressed,  there has not yet been a similar study of IFA.  We quantify the approximation error between IFAs and two common target nonparametric priors (beta-Bernoulli process and Dirichlet process mixture model) and prove that, in the worst-case, TFAs provide more component-efficient approximations than IFAs. However, in experiments on image denoising and topic modeling tasks with real data, we find that the error of Bayesian approximation methods overwhelms any finite approximation error, and IFAs perform very similarly to TFAs.*
+
+* Ricky T. Q. Chen, Dami Choi, Lukas Balles, David Duvenaud, Philipp Hennig. [Self-Tuning Stochastic Optimization with Curvature-Aware Gradient Filtering](https://openreview.net/pdf?id=eHDmRRDkP7C)
+
+*Abstract: Standard first-order stochastic optimization algorithms base their updates solely onthe average mini-batch gradient, and it has been shown that tracking additional quan-tities such as the curvature can help de-sensitize common hyperparameters. Basedon this intuition, we explore the use of exact per-sample Hessian-vector productsand gradients to construct optimizers that are self-tuning and hyperparameter-free.Based on a dynamics model of the gradient, we derive a process which leads to acurvature-corrected, noise-adaptive online gradient estimate. The smoothness ofour updates makes it more amenable to simple step size selection schemes, whichwe also base off of our estimates quantities. We prove that our model-based proce-dure converges in the noisy quadratic setting. Though we do not see similar gainsin deep learning tasks, we can match the performance of well-tuned optimizers andultimately, this is an interesting step for constructing self-tuning optimizers.*
+
+
+* Elliott Gordon-Rodriguez, Gabriel Loaiza-Ganem, Geoff Pleiss, John Patrick Cunningham. [Uses and Abuses of the Cross-Entropy Loss: Case Studies in Modern Deep Learning](https://openreview.net/pdf?id=Udr4FSGfj0U)
+
+*Abstract: Modern deep learning is primarily an experimental science, in which empirical advances occasionally come at the expense of probabilistic rigor. Here we focus on one such example; namely the use of the categorical cross-entropy loss to model data that is not strictly categorical, but rather takes values on the simplex. This practice is standard in neural network architectures with label smoothing and actor-mimic reinforcement learning, amongst others. Drawing on the recently discovered continuous-categorical distribution, we propose probabilistically-inspired alternatives to these models, providing an approach that is more principled and theoretically appealing. Through careful experimentation, including an ablation study, we identify the potential for outperformance in these models, thereby highlighting the importance of a proper probabilistic treatment, as well as illustrating some of the failure modes thereof.*
