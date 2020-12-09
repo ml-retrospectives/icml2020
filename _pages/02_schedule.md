@@ -19,7 +19,7 @@ Important note: the [Gather.Town](https://neurips.gather.town/app/5163xhrHdSWrUZ
 | **Invited talk** - Max Welling: *The LIAR (Learning with Interval Arithmetic Regularization) is Dead*         | 8:00-8:30|
 | **Invited talk** - Danielle Belgrave: *Machine Learning for Personalised Healthcare: Why is it not better?*  | 8:30-9:00 |
 | **Invited talk** - Michael C. Hughes: *The Case for Prediction Constrained Training*         | 9:00-9:30 |
-| Spotlight talks (M. Selosse; D. Cai; W. Ronny; U. Madhushani; E. Jones; Y. Rudolph)                       | 9:30-9:50 |
+| Spotlight talks (M. Selosse: [A bumpy journey: exploring deep Gaussian models](https://openreview.net/pdf?id=Q6tXbLK7YYC); D. Cai: [Power posteriors do not reliably learn the number of components in a finite mixture](https://openreview.net/pdf?id=BRb4tLp6A3o); W. Ronny: [Understanding Generalization through Visualizations](https://openreview.net/pdf?id=pxqYT_7gToV); U. Madhushani: [It Doesn’t Get Better and Here’s Why: A Fundamental Drawback in Natural Extensions of UCB to Multi-agent Bandits](https://openreview.net/pdf?id=eK034ngO05Y); E. Jones: [Selective Classification Can Magnify Disparities Across Groups](https://openreview.net/pdf?id=HPyhX33H1a9); Y. Rudolph[Graph Conditional Variational Models: Too Complex for Multiagent Trajectories?](https://openreview.net/pdf?id=ARZTtJKAMP6))                       | 9:30-9:50 |
 | Coffee break                          | 9:50-10:00 |
 | Poster session 1 in [Gather.Town](https://neurips.gather.town/app/5163xhrHdSWrUZsG/ICBINB)                         | 10:00-11:00 |
 | Contributed talks (C. Le Lan; F. Bao; E. Jorge)                          | 11:00-11:45 |
