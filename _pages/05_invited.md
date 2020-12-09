@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /invited_talks/
+permalink: /talks/
 title: Talks
 ---
 
