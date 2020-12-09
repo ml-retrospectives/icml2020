@@ -14,7 +14,7 @@ https://neurips.gather.town/app/5163xhrHdSWrUZsG/ICBINB) for attendees to intera
 
 <figure> <img src="../assets/img/gathertown/05_breakout.png" height="400" /> <figcaption>In the main room, you can find the area for breakout discussions.</figcaption> </figure>
 
-<figure> <img src="../assets/img/gathertown/04_poster.png" height="400" /> <figcaption>When watching a poster, you can click on the buttons right to get a laser pointer or to zoom in.</figcaption> </figure>
+<figure> <img src="../assets/img/gathertown/04_poster.png" height="400" /> <figcaption>When watching a poster, you can click on the buttons to the right to get a laser pointer or to zoom in.</figcaption> </figure>
 
 <figure> <img src="../assets/img/gathertown/06_bar.png" height="400" /> <figcaption>To the left, you will find the social lounge, perfect to start new conversations!</figcaption> </figure>
 
