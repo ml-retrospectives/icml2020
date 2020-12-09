@@ -79,3 +79,33 @@ title: Talks
 * Elliott Gordon-Rodriguez, Gabriel Loaiza-Ganem, Geoff Pleiss, John Patrick Cunningham. [Uses and Abuses of the Cross-Entropy Loss: Case Studies in Modern Deep Learning](https://openreview.net/pdf?id=Udr4FSGfj0U)
 
 *Abstract: Modern deep learning is primarily an experimental science, in which empirical advances occasionally come at the expense of probabilistic rigor. Here we focus on one such example; namely the use of the categorical cross-entropy loss to model data that is not strictly categorical, but rather takes values on the simplex. This practice is standard in neural network architectures with label smoothing and actor-mimic reinforcement learning, amongst others. Drawing on the recently discovered continuous-categorical distribution, we propose probabilistically-inspired alternatives to these models, providing an approach that is more principled and theoretically appealing. Through careful experimentation, including an ablation study, we identify the potential for outperformance in these models, thereby highlighting the importance of a proper probabilistic treatment, as well as illustrating some of the failure modes thereof.*
+
+### Spotlight Talks
+
+#### Morning session (9:30-9:50am EST)
+
+* Margot Selosse, Claire Gormley, Julien Jacques, Christophe Biernacki. [A bumpy journey: exploring deep Gaussian mixture models](https://openreview.net/pdf?id=Q6tXbLK7YYC)
+
+* Diana Cai, Trevor Campbell, Tamara Broderick. [Power posteriors do not reliably learn the number of components in a finite mixture](https://openreview.net/pdf?id=BRb4tLp6A3o)
+
+* W Ronny Huang, Zeyad Ali Sami Emam, Micah Goldblum, Liam H Fowl, Justin K Terry, Furong Huang, Tom Goldstein. [Understanding Generalization through Visualizations](https://openreview.net/pdf?id=pxqYT_7gToV)
+
+* Udari Madhushani, Naomi Leonard. [It Doesn’t Get Better and Here’s Why: A Fundamental Drawback in Natural Extensions of UCB to Multi-agent Bandits](https://openreview.net/pdf?id=eK034ngO05Y)
+
+* Erik Jones, Shiori Sagawa, Pang Wei Koh, Ananya Kumar, Percy Liang. [Selective Classification Can Magnify Disparities Across Groups](https://openreview.net/pdf?id=HPyhX33H1a9)
+
+* Yannick Rudolph, Ulf Brefeld, Uwe Dick. [Graph Conditional Variational Models: Too Complex for Multiagent Trajectories?](https://openreview.net/pdf?id=ARZTtJKAMP6)
+
+#### Afternoon session (2:30-2:50pm EST)
+
+* Vincent Fortuin, Adrià Garriga-Alonso, Florian Wenzel, Gunnar Ratsch, Richard E Turner, Mark van der Wilk, Laurence Aitchison. [Bayesian Neural Network Priors Revisited](https://openreview.net/pdf?id=KWF4Slxui0s)
+
+* Ziyu Wang, Bin Dai, David Wipf, Jun Zhu. [Further Analysis of Outlier Detection with Deep Generative Models](https://openreview.net/pdf?id=8cyrsZuQS8M)
+
+* Siwen Yan, Devendra Singh Dhami, Sriraam Natarajan. [The Curious Case of Stacking Boosted Relational Dependency Networks](https://openreview.net/pdf?id=QeNn2xIp1Rl)
+
+* Maurice Frank, Maximilian Ilse. [Problems using deep generative models for probabilistic audio source separation](https://openreview.net/pdf?id=ymhpV2MSM8K)
+
+* Ramiro Camino, Chris Hammerschmidt, Radu State. [Oversampling Tabular Data with Deep Generative Models: Is it worth the effort?](https://openreview.net/pdf?id=k2O59Xmg45M)
+
+* Ângelo Gregório Lovatto, Thiago Pereira Bueno, Denis Mauá, Leliane Nunes de Barros. [Decision-Aware Model Learning for Actor-Critic Methods: When Theory Does Not Meet Practice](https://openreview.net/pdf?id=a9lwn6v40C4)
