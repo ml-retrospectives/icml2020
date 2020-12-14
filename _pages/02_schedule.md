@@ -5,6 +5,8 @@ title: Schedule
 description: ICBINB@NeurIPS 2020
 ---
 
+*LIVE STREAM* is [here](https://neurips.cc/virtual/2020/protected/workshop_16124.html).
+
 <!-- # NeurIPS 2020 "I Can't Believe It's Not Better!" (ICBINB) Workshop Schedule -->
 Saturday, December 12th
 <!-- Times are listed in Eastern Daylight Time -->
