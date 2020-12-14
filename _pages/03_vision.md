@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /impact/
-title: Impact
+permalink: /mission/
+title: Mission
 description: ICBINB@NeurIPS 2020
 ---
 
