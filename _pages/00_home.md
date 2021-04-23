@@ -6,6 +6,8 @@ desc_title: I Can't Believe It's Not Better! Workshop
 description: ICBINB@NeurIPS 2020 - Bridging the gap between theory and empiricism in probabilistic machine learning
 ---
 
+*LIVE STREAM* is [here](https://neurips.cc/virtual/2020/protected/workshop_16124.html).
+
 We’ve all been there. A creative spark leads to a beautiful idea. We love the idea, we nurture it, and name it. The idea is elegant: all who hear it fawn over it. The idea is justified: all of the literature we have read supports it. But, lo and behold: once we sit down to implement the idea, it doesn’t work. We check our code for software bugs. We rederive our derivations. We try again and still, it doesn’t work. We Can’t Believe It’s Not Better.[^1]
 
 In this workshop, we will encourage probabilistic machine learning researchers who Can’t Believe It’s Not Better to share their beautiful idea, tell us why it should work, and hypothesize why it does not in practice. We also welcome work that highlights pathologies or unexpected behaviors in well-established practices. This workshop will stress the quality and thoroughness of the scientific procedure, promoting transparency, deeper understanding, and more principled science.
