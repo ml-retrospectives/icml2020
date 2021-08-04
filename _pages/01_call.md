@@ -1,17 +1,15 @@
 ---
 layout: page
-permalink: /cfp/
-title: CfP
+permalink: /guidelines/
+title: Guidelines
 description: ICBINB@NeurIPS 2021
 ---
 
-Beautiful ideas have shaped scientific progress throughout history. However, beautiful ideas are often overlooked in a research environment that heavily emphasizes state-of-the-art (SOTA) results, where the worth of scientific works is defined by their immediate utility. We invite submissions to “I (Still) Can’t Believe It’s Not Better!” (ICBINB) Workshop @ NeurIPS2021 that explore gaps between the “form” and “function” of ideas in ML and AI research. Do you have a beautiful (“form”) idea which does not yet work (“function”)?
-
 We welcome the submission of research papers and abstracts from the broader ML community describing original work that has not been submitted or currently under review, has not been previously published nor accepted for publication elsewhere, in any other journal or conference. In particular, this work may touch on one or more of the following aspects:
-Unexpected negative results or anomalies: ideas that do not provide expected results, yet authors are able to explain why, bringing an interesting closed-form piece of knowledge to the community.
-Papers that are “stuck” yet contain beautiful/elegant ideas. Authors should argue why the idea is of interest, rigorously describe the analysis, and include a self-critique.
-Criticism of and alternatives to default or standard practices (e.g., current evaluation metrics).
-Meta-research on the role of “beauty” or negative results in broader ML research (including statistics, data science, AI, and application areas).
+* Unexpected negative results or anomalies: ideas that do not provide expected results, yet authors are able to explain why, bringing an interesting closed-form piece of knowledge to the community.
+* Papers that are “stuck” yet contain beautiful/elegant ideas. Authors should argue why the idea is of interest, rigorously describe the analysis, and include a self-critique.
+* Criticism of and alternatives to default or standard practices (e.g., current evaluation metrics).
+* Meta-research on the role of “beauty” or negative results in broader ML research (including statistics, data science, AI, and application areas).
 
 
 If you think your paper falls within the remit of the workshop but does not clearly fit one of these tracks, please contact the organizers at <cant.believe.it.is.not.better@gmail.com>
