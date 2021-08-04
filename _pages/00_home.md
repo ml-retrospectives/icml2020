@@ -2,69 +2,79 @@
 layout: home
 permalink: /
 title:
-desc_title: I Can't Believe It's Not Better! Workshop
-description: ICBINB@NeurIPS 2020 - Bridging the gap between theory and empiricism in probabilistic machine learning
+desc_title: I (Still) Can't Believe It's Not Better! Workshop
+description: ICBINB@NeurIPS 2021 - A Workshop for "beautiful" ideas that *should* have worked
 ---
 
-*LIVE STREAM* is [here](https://neurips.cc/virtual/2020/protected/workshop_16124.html).
+### Call for Papers
 
-We’ve all been there. A creative spark leads to a beautiful idea. We love the idea, we nurture it, and name it. The idea is elegant: all who hear it fawn over it. The idea is justified: all of the literature we have read supports it. But, lo and behold: once we sit down to implement the idea, it doesn’t work. We check our code for software bugs. We rederive our derivations. We try again and still, it doesn’t work. We Can’t Believe It’s Not Better.[^1]
+Beautiful ideas have shaped scientific progress throughout history [^1]. As Paul Dirac said, “If one is working from the point of view of getting beauty in one's equations, (…), one is on a sure line of progress [2].” However, beautiful ideas are often overlooked in a research environment that heavily emphasizes state-of-the-art (SOTA) results, where the worth of scientific works is defined by their immediate utility and quantitative superiority instead of their creativity, diversity, and elegance. One example in machine learning is neural networks—a beautiful idea (stacked perceptron units) that did not outperform baselines initially but whose potential was still to be discovered [3], eventually giving rise to the field of deep learning.
 
-In this workshop, we will encourage probabilistic machine learning researchers who Can’t Believe It’s Not Better to share their beautiful idea, tell us why it should work, and hypothesize why it does not in practice. We also welcome work that highlights pathologies or unexpected behaviors in well-established practices. This workshop will stress the quality and thoroughness of the scientific procedure, promoting transparency, deeper understanding, and more principled science.
+This workshop will explore gaps between the form and function (or, the intrinsic and extrinsic value) of ideas in ML and AI research. Some questions we will ask: Why do we find certain ideas “beautiful” (form) even when they don’t yet seem to “work” (function)? What is the value of such beautiful ideas? Does reliance on standardized evaluation or current incentives in publishing suppress beautiful ideas?
 
-Focusing on the probabilistic machine learning community will facilitate this endeavor, not only by gathering experts that speak the same language, but also by exploiting the modularity of probabilistic framework. Probabilistic machine learning separates modeling assumptions, inference, and model checking into distinct phases[^2]; this facilitates criticism when the final outcome does not meet prior expectations. We aim to create an open-minded and diverse space for researchers to share unexpected or negative results and help one another improve their ideas.
+“Beauty” is of course subjective, but all researchers share the experience of valuing an idea intrinsically despite it lacking demonstrated extrinsic value [4]. We will explore that disconnect by asking researchers to submit their “beautiful” ideas that don’t (yet) “work”. We will ask them to explain why their idea has intrinsic value, and hypothesize why it hasn’t (yet) shown its extrinsic value. In doing so, we will create a space for researchers to help each other get their “beautiful” ideas “working”.
 
-In conjunction with [NeurIPS](https://neurips.cc/), the workshop will be held virtually on Saturday 12th, December 2020.  Please see our [schedule](https://i-cant-believe-its-not-better.github.io/schedule/) for details.
+Tensions between intrinsic and extrinsic value arise in multiple sub-fields, e.g.: (i) probabilistic modeling: a model’s parsimony versus its predictive performance; (ii) deep learning: simple modular ideas easier to incorporate into different architectures versus more complicated schemes yielding higher performance; (ii) differential privacy and algorithmic fairness: an algorithm’s mathematical elegance versus its downstream impact on sociotechnical system; (iv) econometrics or causal inference: simple and theoretically appealing estimators vs complex estimators with more statistical efficiency.
+
+We invite submissions from these sub-fields among others in the broader ML community. Works in progress are encouraged. Submissions may touch one or more of the following aspects:
+Unexpected negative results or anomalies [1]: ideas that do not provide expected results, yet authors are able to explain why, bringing an interesting closed-form piece of knowledge to the community.
+Papers that are “stuck” yet contain beautiful/elegant ideas. Authors should argue why the idea is of interest, rigorously describe the analysis, and include a self-critique [5]. 
+Criticism of and alternatives to current evaluation metrics and default practices.
+Meta-research on the role of “beauty” or negative results in ML research.
+
+
 
 ### Confirmed Speakers
 
 <table style="width:100%;border-bottom: 1px solid black;">
   <tr>
-    <td style="text-align:center"><img src="https://polisci.columbia.edu/sites/default/files/styles/cu_crop/public/content/Images/ProfilePhotos/Gelman.png?itok=-zHbvJpG" height="175"></td>
-    <td style="text-align:center"><img src="https://www.microsoft.com/en-us/research/uploads/prod/2018/07/Webp.net-resizeimage-6.jpg" height="175"></td>
-    <td style="text-align:center"><img src="https://engineering.tufts.edu/sites/default/files/Hughes%20headshot.png" height="175"></td>
+    <td style="text-align:center"><img src="https://cocosci.princeton.edu/tom/griffiths_0_0.jpg height="175"></td>
+    <td style="text-align:center"><img src="https://avatars.githubusercontent.com/u/2264591?v=4" height="175"></td>
+    <td style="text-align:center"><img src="https://assets.pubpub.org/ecmq36io/51583152278875.jpg" height="175"></td>
 
   </tr>
   <tr>
-    <td style="text-align:center"><a href="http://www.stat.columbia.edu/~gelman/">Andrew Gelman</a> <br> Columbia</td>
-    <td style="text-align:center"><a href="https://www.microsoft.com/en-us/research/people/dabelgra/">Danielle Belgrave</a> <br>Microsoft Research</td>
-<td style="text-align:center"><a href="https://www.michaelchughes.com/">Michael C. Hughes</a> <br> Tufts </td>
+   <td style="text-align:center"><a href="https://cocosci.princeton.edu/tom/index.php">Tom Griffiths</a> <br> Columbia</td>
+   <td style="text-align:center"><a href="http://elarosca.net/">Michaela Rosca</a> <br>DeepMind</td>
+   <td style="text-align:center"><a href="https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/professorships/foundations-of-machine-learning-systems/">Robert Williamson</a> <br> Tübingen </td>
 
   </tr>
   <tr>
-  <td style="text-align:center"><img src="https://staff.fnwi.uva.nl/m.welling/wp-content/uploads/Max-Welling_0633-LR-small.jpg" height="175"></td>
-    <td style="text-align:center"><img src="https://static.projects.iq.harvard.edu/files/styles/profile_full/public/iacs2/files/pan_weiwei.jpg?m=1594045435&itok=T7QE9rWf" height="175"></td>
-    <td style="text-align:center"><img src="https://www.cs.toronto.edu/~rgrosse/photo.png" height="175"></td>
+  <td style="text-align:center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Cosma_Shalizi_2.jpg/275px-Cosma_Shalizi_2.jpg" height="175"></td>
+    <td style="text-align:center"><img src="http://eliassi.org/tina2017.png" height="175"></td>
+    <td style="text-align:center"><img src="https://dsideweb.github.io/images/nyalleng-moorosi.jpg" height="175"></td>
   </tr>
   <tr>
 
-  <td style="text-align:center"><a href="https://staff.fnwi.uva.nl/m.welling/">Max Welling</a> <br> Amsterdam</td>
-    <td style="text-align:center"><a href="https://iacs.seas.harvard.edu/people/weiwei-pan">Weiwei Pan</a> <br> Harvard</td>
-    <td style="text-align:center"><a href="https://www.cs.toronto.edu/~rgrosse/">Roger Grosse</a> <br> University of Toronto</td>
+   <td style="text-align:center"><a href="http://www.stat.cmu.edu/~cshalizi/http://www.stat.cmu.edu/~cshalizi/">Cosma Shalizi</a> <br> CMU</td>
+   <td style="text-align:center"><a href="http://eliassi.org/">Tina Eliassi-Rad</a> <br> Northeastern </td>
+   <td style="text-align:center"><a href="https://appliedmldays.org/all-time-speakers/nyalleng-moorosi">Nyalleng Moorosi</a> <br> Google AI</td>
   </tr>
 </table>
 
 
 ### How do I submit?
 
-We accept submissions through our [OpenReview workshop site](https://openreview.net/group?id=NeurIPS.cc/2020/Workshop/ICBINB).
+We accept submissions through our [OpenReview workshop site](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/ICBINB).
 
-<!-- Submissions can be from any subfield of machine learning or related fields of interest to the ICML community.  The main goal of the workshop is to widen what is publishable in ML, and to introduce researchers to more public reflections of their work as part of an ongoing effort to disseminate scientific knowledge more effectively and openly. -->
 
-**Main deadline: ~~October 14th~~ October 16th 23:59 Anywhere on Earth. Accept/reject notification will be sent out by October 31st.**
-
-<!--**Late-breaking deadline: June 21 23:59 Anywhere on Earth. Accept/reject notification will be sent out July 1st.**-->
+Main deadline: **September 17th 23:59 Anywhere on Earth. Accept/reject notification will be sent out by September 31st.**
 
 Check out our [CFP](https://i-cant-believe-its-not-better.github.io/cfp/) for detailed submission guidelines.
 
 ### Organizers
 
-* [Jessica Zosa Forde](https://jzf2101.github.io/), Brown University
-* [Francisco Ruiz](https://franrruiz.github.io/), DeepMind
-* [Melanie F. Pradier](https://melaniefp.github.io/), Harvard University
 * [Aaron Schein](http://www.columbia.edu/~as5530/), Columbia University
+* [Jessica Zosa Forde](https://jzf2101.github.io/), Brown University
+* [Stephanie Hyland](https://www.microsoft.com/en-us/research/people/sthyland/), Microsoft Research
+* [Francisco Ruiz](https://franrruiz.github.io/), DeepMind
+* [Melanie F. Pradier](https://melaniefp.github.io/), Microsoft Research
 
 ### Advisory Board
+
+* [Bob Williamson](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/professorships/foundations-of-machine-learning-systems/), University of Tübingen
+* [Tamara Broderick](https://people.csail.mit.edu/tbroderick/), Massachusetts Institute of Technology
+* [Max Welling](https://staff.fnwi.uva.nl/m.welling/), University of Amsterdam
 
 * [Finale Doshi-Velez](https://finale.seas.harvard.edu/), Harvard University
 * [Isabel Valera](https://ivaleram.github.io/), MPI for Intelligent System
@@ -77,5 +87,8 @@ For any question or suggestion, please contact us at: <cant.believe.it.is.not.be
 
 ### References
 
-[^1]: Wikipedia contributors. “I Can’t Believe It’s Not Butter!” In: Wikipedia, The Free Encyclopedia [Internet]. Cited 24 June 2020.
-[^2]: Blei, D. M. “Build, Compute, Critique, Repeat: Data Analysis with Latent Variable Models.” Annu Rev Stat Appl. 2014;1: 203-232.
+[^1]: Kuhn, Thomas S. “The Structure of Scientific Revolutions.” (1962)
+[^2]: Dirac PAM. The Evolution of the Physicist’s Picture of Nature. Sci Am. 1963;208: 45.
+[^3]: LeCun and Hinton mention how their papers (and their colleagues’) were routinely rejected from being published based on their subject: https://youtu.be/vShMxxqtDDs?t=6m59s
+[^4]: Engler, Gideon. "Aesthetics in science and in art." The British Journal of Aesthetics 30 (1990): 24-34.
+[^5]:  https://i-cant-believe-its-not-better.github.io/mission/

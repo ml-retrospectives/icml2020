@@ -2,19 +2,23 @@
 layout: page
 permalink: /schedule/
 title: Schedule
-description: ICBINB@NeurIPS 2020
+description: ICBINB@NeurIPS 2021
 ---
 
+<!--
 *LIVE STREAM* is [here](https://neurips.cc/virtual/2020/protected/workshop_16124.html).
+Saturday, December 12th
+-->
 
 <!-- # NeurIPS 2020 "I Can't Believe It's Not Better!" (ICBINB) Workshop Schedule -->
-Saturday, December 12th
 <!-- Times are listed in Eastern Daylight Time -->
 
 <!--This workshop proposal is unique in its emphasis on the gap between theory and empirical results, and its goal to share methodological best practices in a community-building setting. Its focus on the probabilistic ML community will gather researchers that speak the same language and are able to combine knowledge in a modular way. This will allow for productive methodological feedback, targeted discussions, and constructive critiques through, e.g., poster and breakout sessions.-->
 
-You can find the schedule below. All times are **Eastern Standard Time (EST)**.
+Coming soon.
 
+<!--
+You can find the schedule below. All times are **Eastern Standard Time (EST)**.
 Important note: the [Gather.Town](https://neurips.gather.town/app/5163xhrHdSWrUZsG/ICBINB) will be available during the whole Workshop.
 
 | Opening remarks                    | 7:45-8:00 |
@@ -35,3 +39,4 @@ Important note: the [Gather.Town](https://neurips.gather.town/app/5163xhrHdSWrUZ
 | Poster session 2 in [Gather.Town](https://neurips.gather.town/app/5163xhrHdSWrUZsG/ICBINB)                    | 15:45-16:45 |
 | Breakout discussions in [Gather.Town](https://neurips.gather.town/app/5163xhrHdSWrUZsG/ICBINB)                 | 16:15-16:45 |
 | **Panel discussion** - Sinead Williamson, Laurent Dinh, Neil Lawrence, Kristian Lum, Tamara Broderick, moderator: Hanna Wallach                      | 16:45-17:45 |
+-->

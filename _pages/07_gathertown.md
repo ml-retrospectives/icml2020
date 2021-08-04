@@ -5,8 +5,7 @@ title: GatherTown
 description:
 ---
 
-During the whole duration of the Workshop, we have enabled a virtual [Gather Town](
-https://neurips.gather.town/app/5163xhrHdSWrUZsG/ICBINB) for attendees to interact, socialize, meet new people and talk about research, either at the posters, at the breakout discussions, or at the virtual bar! To connect, simply click on the provided link.
+During the whole duration of the Workshop, we will enabled a virtual *Gather Town* for attendees to interact, socialize, meet new people and talk about research, either at the posters, at the breakout discussions, or at the virtual bar! To connect, simply click on the provided link (coming soon).
 
 <figure> <img src="../assets/img/gathertown/01_main_room.png" height="400" /> <figcaption>This is the main room, where your avatar will appear.</figcaption> </figure>
 

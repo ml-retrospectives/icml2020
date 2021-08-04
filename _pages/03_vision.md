@@ -2,7 +2,7 @@
 layout: page
 permalink: /mission/
 title: Mission
-description: ICBINB@NeurIPS 2020
+description: ICBINB@NeurIPS 2021
 ---
 
 Understanding counter-intuitive results is essential, but under-valued, in an increasingly competitive and fast-paced research environment. This workshop aims to rescue papers with fresh and powerful insights that would otherwise fall into the graveyard of forgotten papers. Such works might be high-hanging fruits in the tree of science, and are often those that need help the most. Benefits from this workshop include:
