@@ -80,6 +80,8 @@ Check out our [submission guidelines](https://i-cant-believe-its-not-better.gith
 * [Tamara Broderick](https://people.csail.mit.edu/tbroderick/), Massachusetts Institute of Technology
 * [Max Welling](https://staff.fnwi.uva.nl/m.welling/), University of Amsterdam
 
+### Senior Advisory Board
+
 * [Finale Doshi-Velez](https://finale.seas.harvard.edu/), Harvard University
 * [Isabel Valera](https://ivaleram.github.io/), MPI for Intelligent System
 * [David Blei](http://www.cs.columbia.edu/~blei/), Columbia University
