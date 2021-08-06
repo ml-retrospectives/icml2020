@@ -28,7 +28,7 @@ We invite submissions from these sub-fields among others in the broader ML commu
 
 
 
-### Speakers
+### Confirmed Speakers
 
 <table style="width:100%;border-bottom: 1px solid black;">
   <tr>
@@ -50,9 +50,9 @@ We invite submissions from these sub-fields among others in the broader ML commu
   </tr>
   <tr>
 
-   <td style="text-align:center"><a href="http://www.stat.cmu.edu/~cshalizi/http://www.stat.cmu.edu/~cshalizi/">Cosma Shalizi</a> <br> CMU </td>
+   <td style="text-align:center"><a href="http://www.stat.cmu.edu/~cshalizi/http://www.stat.cmu.edu/~cshalizi/">Cosma Shalizi</a> <br> CMU</td>
    <td style="text-align:center"><a href="http://eliassi.org/">Tina Eliassi-Rad</a> <br> Northeastern </td>
-   <td style="text-align:center"><a href="https://appliedmldays.org/all-time-speakers/nyalleng-moorosi">Nyalleng Moorosi</a> <br> Google AI (pending)</td>
+   <td style="text-align:center"><a href="https://appliedmldays.org/all-time-speakers/nyalleng-moorosi">Nyalleng Moorosi</a> <br> Google AI</td>
   </tr>
 </table>
 
@@ -64,7 +64,7 @@ We accept submissions through our [OpenReview workshop site](https://openreview.
 
 Main deadline: **September 17th 23:59 Anywhere on Earth. Accept/reject notification will be sent out by September 31st.**
 
-Check out our [submission guidelines](https://i-cant-believe-its-not-better.github.io/neurips2021/guidelines/) for more details.
+Check out our [submission guidelines](https://i-cant-believe-its-not-better.github.io/cfp/) for more details.
 
 ### Organizers
 
@@ -76,8 +76,8 @@ Check out our [submission guidelines](https://i-cant-believe-its-not-better.gith
 
 ### Advisory Board
 
+* [Bob Williamson](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/professorships/foundations-of-machine-learning-systems/), University of Tübingen
 * [Tamara Broderick](https://people.csail.mit.edu/tbroderick/), Massachusetts Institute of Technology
-* [Robert Williamson](https://uni-tuebingen.de/en/research/core-research/cluster-of-excellence-machine-learning/research/research/cluster-research-groups/professorships/foundations-of-machine-learning-systems/), University of Tübingen
 * [Max Welling](https://staff.fnwi.uva.nl/m.welling/), University of Amsterdam
 
 ### Senior Advisory Board
@@ -90,10 +90,6 @@ Check out our [submission guidelines](https://i-cant-believe-its-not-better.gith
 ### Contact
 
 For any question or suggestion, please contact us at: <cant.believe.it.is.not.better@gmail.com>
-
-### About
-
-This workshop builds upon the [NeurIPS 2020 “I Can’t Believe It’s Not Better!” (ICBINB)](https://i-cant-believe-its-not-better.github.io/neurips2020/) workshop, which was motivated by the same principles but focused on unexpected negative results in probabilistic ML. In this call, we further unpack the concept of beauty that emerged in the discussions from the 2020 workshop. We also expand the scope to a broader ML community.
 
 ### References
 
