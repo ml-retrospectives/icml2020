@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /about/
-title: About ICINB
-description: ICBINB@NeurIPS 2021
+title: About ICBINB
+description: 
 ---
 
 This workshop builds upon the [NeurIPS 2020 “I Can’t Believe It’s Not Better!” (ICBINB)](https://i-cant-believe-its-not-better.github.io/neurips2020/) workshop, which was motivated by the same principles but focused on unexpected negative results in probabilistic ML. This year, we further unpack the concept of beauty that emerged in the discussions from the 2020 workshop. We also expand the scope to a broader ML community.
