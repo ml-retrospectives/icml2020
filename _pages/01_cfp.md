@@ -1,15 +1,26 @@
 ---
 layout: page
-permalink: /guidelines/
-title: Guidelines
+permalink: /cfp/
+title: Call for Papers
 description: ICBINB@NeurIPS 2021
 ---
 
+We ask researchers to submit their “beautiful” ideas that don’t (yet) “work”, to explain why their idea has intrinsic value, and hypothesize why it hasn’t (yet) shown its extrinsic value. In doing so, we will create a space for researchers to help each other get their “beautiful” ideas “working.
+
 We welcome the submission of research papers and abstracts from the broader ML community describing original work that has not been submitted or currently under review, has not been previously published nor accepted for publication elsewhere, in any other journal or conference. In particular, this work may touch on one or more of the following aspects:
+
 * Unexpected negative results or anomalies: ideas that do not provide expected results, yet authors are able to explain why, bringing an interesting closed-form piece of knowledge to the community.
 * Papers that are “stuck” yet contain beautiful/elegant ideas. Authors should argue why the idea is of interest, rigorously describe the analysis, and include a self-critique.
 * Criticism of and alternatives to default or standard practices (e.g., current evaluation metrics).
 * Meta-research on the role of “beauty” or negative results in broader ML research (including statistics, data science, AI, and application areas).
+
+“Beauty” is of course subjective, but all researchers share the experience of valuing an idea intrinsically despite it lacking demonstrated extrinsic value.[^4]
+
+Tensions between intrinsic and extrinsic value arise in multiple sub-fields, e.g.:
+    (i) probabilistic modeling: a model’s parsimony versus its predictive performance
+    (ii) deep learning: simple modular ideas easier to incorporate into different architectures versus more complicated schemes yielding higher performance
+    (iii) differential privacy and algorithmic fairness: an algorithm’s mathematical elegance versus its downstream impact on sociotechnical system
+    (iv) econometrics or causal inference: simple and theoretically appealing estimators vs complex estimators with more statistical efficiency
 
 
 If you think your paper falls within the remit of the workshop but does not clearly fit one of these tracks, please contact the organizers at <cant.believe.it.is.not.better@gmail.com>
