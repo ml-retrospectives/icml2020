@@ -2,10 +2,10 @@
 layout: home
 permalink: /
 title:
-desc_title: I Can't Believe It's Not Better!
+desc_title:
 ---
 
-## ICBINB Workshop Series
+## I Can't Believe It's Not Better! (ICBINB) Workshop Series
 
 ### Upcoming Events
 
